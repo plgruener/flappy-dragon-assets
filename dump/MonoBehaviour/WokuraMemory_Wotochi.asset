@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f98bc325d1cbfd5ab66680485ff485, type: 3}
+  m_Name: WokuraMemory_Wotochi
+  m_EditorClassIdentifier:
+  Type: 2
+  Material: {fileID: 2100000, guid: cf3a68791f3d95c42b9ce364d5925560, type: 2}
+  ShinyMaterial: {fileID: 2100000, guid: 6075f7a97bce6fd4ba752dd14e5667a5, type: 2}
+  MasteryMaterial: {fileID: 2100000, guid: 23a7f153fba867e4c860bf49d95b618b, type: 2}
+  PrismaticMaterial: {fileID: 2100000, guid: 9e5cf4ac4557d8441a0b440ca0ac1f66, type: 2}
+  Sprite: {fileID: 21300000, guid: b16115dd017dea24d9dea9b9aaff1f2c, type: 2}
+  MinRadius: 2
+  MaxRadius: 4.5
+  Amplitude: 1
+  Frequency: 2.5
+  AngularFrequency: 0.5
+  MovementSpeed: 5
+  TimeToLive: 30
+  SkillCooldown: 0
+  SkillDuration: 0
+  MemoryName: Wotochi

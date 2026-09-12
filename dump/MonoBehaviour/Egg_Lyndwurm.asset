@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Lyndwurm
+  m_EditorClassIdentifier:
+  id: 46
+  name: Lyndwurm Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: da957e0da8648db47aed8e0bf6ac364f, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 3c18b7c92b709c64ab36137cfe216ba9, type: 2}
+  - {fileID: 11400000, guid: 13312febb0a8eb64ca6f38623dd5f455, type: 2}
+  - {fileID: 11400000, guid: 62adf44a049861948ae7ecc99eabe439, type: 2}
+  - {fileID: 11400000, guid: a01cd938ef0aa674f8d34f387a44cc2f, type: 2}
+  - {fileID: 11400000, guid: a936554842f82c2439c88c7b612a5787, type: 2}
+  - {fileID: 11400000, guid: 5806d4be40947064c817eb9ee5582467, type: 2}
+  - {fileID: 11400000, guid: 503cf8c8df4f6564782930e9bcee1e2b, type: 2}
+  - {fileID: 11400000, guid: 1e5439522b458e54c92ee7ea28192e3e, type: 2}
+  - {fileID: 11400000, guid: 210b3aae217d4ab4a8bafbcd55f2489a, type: 2}
+  - {fileID: 11400000, guid: 6a843be55676f734fb049a22b5925e1f, type: 2}
+  - {fileID: 11400000, guid: b97461b7cc9505d43a6a47dcbf9ebfa3, type: 2}
+  - {fileID: 11400000, guid: 28eae9b316dc95540b117f302284b3b7, type: 2}
+  nameKey: D_EGG.LYNDWURM.NAME
+  descriptionKey: D_EGG.LYNDWURM.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.7607843, b: 0.8156863, a: 1}
+  outerBackgroundColor: {r: 0.22745098, g: 0.53333336, b: 0.5568628, a: 1}
+  particleColor: {r: 0.32549018, g: 0.7518583, b: 0.8117647, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 12
+  material: {fileID: 2100000, guid: ee4da96e4ebf3d54480f228638e8bcd4, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

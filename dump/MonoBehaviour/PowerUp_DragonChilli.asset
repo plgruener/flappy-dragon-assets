@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36d6096f57b841f8fb6fc99a4b0d191, type: 3}
+  m_Name: PowerUp_DragonChilli
+  m_EditorClassIdentifier:
+  id: 5
+  name: Dragon Chilli
+  description: Pulses of rings of fire (novas) that destroy everything on touch while the buff is active.
+  chance: 100
+  sprite: {fileID: 21300000, guid: 564044da03b2c9a4f8c7603a2724671b, type: 2}
+  primaryColor: {r: 0.85098046, g: 0.16470589, b: 0.34901962, a: 1}
+  secondaryColor: {r: 0.91372555, g: 0.5019608, b: 0.59607846, a: 1}
+  dramaticBackgroundColor: {r: 0.101960786, g: 0, b: 0.0009585175, a: 0.5019608}
+  isActive: 1
+  isPassive: 0
+  duration: 12
+  radius: 0
+  power: 0
+  ticks: 0
+  newCameraOrthographicSize: 0
+  newTimeScale: 0
+  givesExtraLife: 0
+  givesExtraShield: 0
+  powerUpPickUpSound: {fileID: 0}
+  powerUpActiveSound: {fileID: 0}
+  powerUpDestroySound: {fileID: 0}
+  powerUpPickupParticles: {fileID: 11400000, guid: 731b2edfd8a7d614ab3a9eff1b931d30, type: 2}
+  localizedName:
+    mTerm: D_POWERUP.DRAGON_CHILLI.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_POWERUP.DRAGON_CHILLI.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  affectsControllerSpeed: 0
+  storedPowerupSprite: {fileID: 21300000, guid: 327a2fb61da1b4444bd157ad36cb47a2, type: 2}
+  storedPowerupScaleMultiplier: 1.11
+  powerupDonutSprite: {fileID: 21300000, guid: 50d203652b98f1f4e87966acb2a323a3, type: 2}

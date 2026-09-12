@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36d6096f57b841f8fb6fc99a4b0d191, type: 3}
+  m_Name: PowerUp_CosmicStars
+  m_EditorClassIdentifier:
+  id: 8
+  name: Cosmic Stars
+  description: 'Spawns X Starts on an orbit of Y radius. '
+  chance: 100
+  sprite: {fileID: 21300000, guid: 5e755f7ff7a7c834f8412a98bb0334e4, type: 2}
+  primaryColor: {r: 0.81960785, g: 0.54509807, b: 0.9843137, a: 1}
+  secondaryColor: {r: 0.94117653, g: 0.4039216, b: 0.97647065, a: 1}
+  dramaticBackgroundColor: {r: 0.07320035, g: 0, b: 0.101960786, a: 0.5019608}
+  isActive: 1
+  isPassive: 0
+  duration: 12
+  radius: 0
+  power: 0
+  ticks: 0
+  newCameraOrthographicSize: 0
+  newTimeScale: 0
+  givesExtraLife: 0
+  givesExtraShield: 0
+  powerUpPickUpSound: {fileID: 0}
+  powerUpActiveSound: {fileID: 0}
+  powerUpDestroySound: {fileID: 11400000, guid: 1145042971bc7784f8d2b0313a70db79, type: 2}
+  powerUpPickupParticles: {fileID: 11400000, guid: e1a230472ebac384a8bce78eacd36fd3, type: 2}
+  localizedName:
+    mTerm: D_POWERUP.COSMIC_STARS.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_POWERUP.COSMIC_STARS.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  affectsControllerSpeed: 0
+  storedPowerupSprite: {fileID: 21300000, guid: 9b1ed3b59f99c91469b1c06551a55fb6, type: 2}
+  storedPowerupScaleMultiplier: 1.11
+  powerupDonutSprite: {fileID: 21300000, guid: 8ef5c07be2b4d4b46ac0bfce502f8f63, type: 2}

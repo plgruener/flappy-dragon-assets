@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_Spookylvania_Countess
+  m_EditorClassIdentifier:
+  id: 41
+  name: Countess
+  idle: {fileID: 21300000, guid: 608e2147d53f85642a9faa5672c4a439, type: 2}
+  idle2: {fileID: 21300000, guid: aa1433f3640a9f843b2e0ea4d5d55db5, type: 2}
+  deathParticles: {fileID: 11400000, guid: 51173c3142730154c87b60f02fba56e2, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.19125, y: 0.19125, z: 0.19125}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 0
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 3
+  deathAudioClips:
+  - {fileID: 11400000, guid: 1aa8bcbc4706fdb4986dc3a936aabac3, type: 2}
+  - {fileID: 11400000, guid: c69295b06c856f34ba05d3da9be15d3b, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 1, y: -6, z: 0}
+  worldmapScaleOffset: {x: 1, y: 1, z: 1}

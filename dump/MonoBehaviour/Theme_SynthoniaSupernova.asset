@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_SynthoniaSupernova
+  m_EditorClassIdentifier:
+  worldId: 14
+  id: 107
+  name: Synthonia Supernova
+  portrait: {fileID: 21300000, guid: 7907faa5803b55843a6f4b4de0e7aaad, type: 2}
+  isNight: 1
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0
+  windForce: 0
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 0.9025687, g: 1, b: 0.8901961, a: 1}
+  skyMaterial: {fileID: 2100000, guid: b3280a6fd5ca28f4eae6c643bc76ef4b, type: 2}
+  cloudColor: {r: 1, g: 1, b: 1, a: 1}
+  environment: {fileID: 1709254077376921, guid: 52f6f79fd3e1b314bbfd34018fd1e392, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.80784315, g: 1, b: 0.8214351, a: 1}
+  extraColor: {r: 0.98039216, g: 0.39215687, b: 0.39215687, a: 1}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Pterodactyl
+  m_EditorClassIdentifier:
+  id: 14
+  name: Pterodactyl Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 85056ac5e95c3954ba946b10c7500b89, type: 2}
+  rarityPool: 6
+  typePool: 2
+  customDragonPool:
+  - {fileID: 11400000, guid: abd6feb0ebcb76a4f8e4baa96f318767, type: 2}
+  - {fileID: 11400000, guid: 1ce98d0493a394148beb566e5d06efdd, type: 2}
+  - {fileID: 11400000, guid: 977d028eb6798f64e96b9386d40eb762, type: 2}
+  - {fileID: 11400000, guid: 05a2c8a0a87113f46aec3661d4f69f40, type: 2}
+  - {fileID: 11400000, guid: af95d86e864850a418fc53f432663f35, type: 2}
+  - {fileID: 11400000, guid: 2318c0b56edc5e74089127084f9d7b3d, type: 2}
+  - {fileID: 11400000, guid: 397b275be95b9d5439ebea7943522aa1, type: 2}
+  - {fileID: 11400000, guid: f5e5ba7aea0366d4f88eb457c6d0286a, type: 2}
+  - {fileID: 11400000, guid: d3281da5fc6a53842b9ec2442a9f1679, type: 2}
+  - {fileID: 11400000, guid: 5a87adb84178abb49ad2a8869cff7210, type: 2}
+  - {fileID: 11400000, guid: b37e9a334c67f6e43908b031346e7901, type: 2}
+  - {fileID: 11400000, guid: 74eb2d4f800be0c4cb1ae1056c083df5, type: 2}
+  - {fileID: 11400000, guid: f5fc15d40b8ad044aafa7f224e5eeb8f, type: 2}
+  - {fileID: 11400000, guid: 4f405044498ac454db755c705743dc00, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_SPECKLED
+  descriptionKey: D_EGG.SPECKLED.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.60784316, a: 1}
+  outerBackgroundColor: {r: 0.38431373, g: 0.5921569, b: 0.6039216, a: 1}
+  particleColor: {r: 0.32549018, g: 0.8117647, b: 0.64939845, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 10
+  material: {fileID: 2100000, guid: 7fae4948bd1b7f4458c184ac41f489cd, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

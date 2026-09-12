@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_OadLum
+  m_EditorClassIdentifier:
+  id: 212
+  name: Oad Lum
+  type: 4
+  rarity: 3
+  controlType: 2
+  horizontalSpeed: 2.9047003
+  verticalSpeed: 4.99234
+  gravity: 10.100949
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.25881904, w: 0.9659258}
+  qDown: {x: 0, y: 0, z: 0.25881913, w: -0.9659258}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.OADLUM
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 0
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: 0.2, z: 0}
+  tailType: 11
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.75
+      value: 0.085
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 0
+  tailTime: 0.2625
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 57ffd4f2e0d436b4f94f566a298bfb4f, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 9e67ee67dfe9d6c4aa46ddf3c7b91ccf, type: 2}
+  skinShiny: {fileID: 11400000, guid: c532b50bf6b8c5c40b46978fdaa925a2, type: 2}
+  skinMastery: {fileID: 11400000, guid: f7f84ce8d311b644ea26b24823940d39, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: d65c1c50015062549bc3b0777a68e61e, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 1
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 368c4212e23d4464a9cda7af94be7ce4, type: 2}
+  - {fileID: 11400000, guid: ed398bc2877a59847aa3d087a5ef1df6, type: 2}
+  - {fileID: 11400000, guid: 83409fd9226d69f4495cd4c360585035, type: 2}

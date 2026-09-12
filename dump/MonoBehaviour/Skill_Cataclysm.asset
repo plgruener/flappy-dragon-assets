@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb30f403fd858219f3476f5eea6dc837, type: 3}
+  m_Name: Skill_Cataclysm
+  m_EditorClassIdentifier:
+  id: 57
+  name: Cataclysm
+  description: You can eat towers, but each time you eat one your weight will be increased by 10-20%. When eating a tower you will have a chance equal to the amount of towers you have eaten to produce an earthquake and reset your weight.
+  localizedName:
+    mTerm: D_ABILITY.CATACLYSM.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_ABILITY.CATACLYSM.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  hasPrimaryValueModifiers: 1
+  prefixValuePrimary:
+  suffixValuePrimary: '%'
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  minValuePrimary: 20
+  maxValuePrimary: 10
+  minValueSecondary: 0
+  maxValueSecondary: 0
+  isActive: 0
+  minValueCooldown: 30
+  maxValueCooldown: 18
+  activateCondition: 128
+  icon: {fileID: 21300000, guid: dbc67a30ff60b46458fc7c75b89cccdd, type: 2}
+  prefab: {fileID: 0}
+  isProgrammed: 1
+  increaseRoyalAppearenceChance: 0
+  increaseChestAppearenceChance: 0
+  increaseEggAppearenceChance: 0
+  increasePowerUpAppearenceChance: 0
+  increasePortalAppearenceChance: 0
+  increaseStellarDonutAppearenceChance: 0

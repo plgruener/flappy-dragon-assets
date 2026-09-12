@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Classic
+  m_EditorClassIdentifier:
+  id: 35
+  name: Classic Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: ede4f1b7ffbf1d84aa3574d557e38bfe, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 99b96ec066fee69438c539b1368e0374, type: 2}
+  - {fileID: 11400000, guid: ef0f8b97296a6fa499fc9f87c16bfb47, type: 2}
+  - {fileID: 11400000, guid: 04796663251d9e147b9f8522d18286f8, type: 2}
+  - {fileID: 11400000, guid: 6d1f1cf0622574c4fb95fb325d7bc151, type: 2}
+  - {fileID: 11400000, guid: 0dc4a19b01039a94bbfbf13344e92fff, type: 2}
+  - {fileID: 11400000, guid: 4e55d2ba26d46bb4ab749118a32c2261, type: 2}
+  - {fileID: 11400000, guid: a5ca37b71ecbebb41b303a5ceee2d1ba, type: 2}
+  - {fileID: 11400000, guid: 51ec3ad54c8882d46a955a633407adce, type: 2}
+  - {fileID: 11400000, guid: 7f725ceaeeb5b8f47a9ee3ff348d77c4, type: 2}
+  - {fileID: 11400000, guid: 389bd24a76337ce41940ac510b7d2e4b, type: 2}
+  - {fileID: 11400000, guid: fef6dce952a18bf47bb8c8bb433cbccb, type: 2}
+  - {fileID: 11400000, guid: 37742b1fcb635cf489f193ac62d18261, type: 2}
+  - {fileID: 11400000, guid: 565b8a8f7380cb54081788229987d8f4, type: 2}
+  - {fileID: 11400000, guid: dabf4095156b2ad438ea451a2a4746ba, type: 2}
+  - {fileID: 11400000, guid: 8f78216815ec43740a669cc7b3c72caf, type: 2}
+  - {fileID: 11400000, guid: 6b1543136e79f814bacdb3607296c876, type: 2}
+  - {fileID: 11400000, guid: 423dfaa0314971b4881d0779d3aa0668, type: 2}
+  - {fileID: 11400000, guid: 9665c233a361fbb4caded327d536b2fa, type: 2}
+  - {fileID: 11400000, guid: bb691063ffe48354cb94fb60ddeb5211, type: 2}
+  - {fileID: 11400000, guid: 1ccc0c9af20c79a4d9a896caa580c2a2, type: 2}
+  - {fileID: 11400000, guid: 4b0848d58cb27554c9575aa9838859d2, type: 2}
+  - {fileID: 11400000, guid: 88b2bc96f0ad64d44868d555d5942a4d, type: 2}
+  - {fileID: 11400000, guid: cd06b6f8c78bdd74a839982f26657118, type: 2}
+  - {fileID: 11400000, guid: f29165eabc323ce43b650040b800feea, type: 2}
+  - {fileID: 11400000, guid: b7ceee062cead4645bb234f3d578b64a, type: 2}
+  - {fileID: 11400000, guid: ecebae42ef407ce4a96cb4d4e5db918b, type: 2}
+  nameKey: D_EGG.CLASSIC.NAME
+  descriptionKey: D_EGG.CLASSIC.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.69877875, a: 1}
+  outerBackgroundColor: {r: 0.38431373, g: 0.6039216, b: 0.47872514, a: 1}
+  particleColor: {r: 0.3372549, g: 0.6039216, b: 0.43801588, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 0
+  material: {fileID: 2100000, guid: fa81fedc86372c8408828aef8174a144, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

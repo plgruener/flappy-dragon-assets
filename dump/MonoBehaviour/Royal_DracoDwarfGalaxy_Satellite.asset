@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_DracoDwarfGalaxy_Satellite
+  m_EditorClassIdentifier:
+  id: 36
+  name: Satellite
+  idle: {fileID: 21300000, guid: f9583d137010a6447bae781c2846c555, type: 2}
+  idle2: {fileID: 21300000, guid: f24d44616fd953b4da5141ffa8eea136, type: 2}
+  deathParticles: {fileID: 11400000, guid: 020f151a5be6ed4449ae19302d220bd5, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.3825, y: 0.3825, z: 0.3825}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 0
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: d2939081897877a4bbe0a5641c80de2e, type: 2}
+  - {fileID: 11400000, guid: c49c4e389eac8704292ffadd95d414d6, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 0, y: -3, z: 0}
+  worldmapScaleOffset: {x: 1.5, y: 1.5, z: 1.5}

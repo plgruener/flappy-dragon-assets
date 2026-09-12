@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Kankano
+  m_EditorClassIdentifier:
+  id: 61
+  name: Kankano
+  type: 5
+  rarity: 4
+  controlType: 0
+  horizontalSpeed: 2.8979554
+  verticalSpeed: 5.268949
+  gravity: 9.485727
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.1305262, w: 0.9914449}
+  qDown: {x: 0, y: 0, z: 0.13052632, w: -0.9914448}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.KANKANO
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 1
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 0
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 2
+  tailTime: 0.35
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 122a187059b1150418081fda0f5104bd, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 6d42c4ad802af824bb535b6f621267d9, type: 2}
+  skinShiny: {fileID: 11400000, guid: 294a9f3dddcd44740b5e7eddf80d7252, type: 2}
+  skinMastery: {fileID: 11400000, guid: 25cdd2fb5a5a99f4fa13919995cd96e2, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: f9890f5afe705e74f9271d18e67e52a3, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 98a291e0077475842938f0e93f4ae07a, type: 2}
+  - {fileID: 11400000, guid: 88044d2a3e1ca78439a9c0e374c62484, type: 2}

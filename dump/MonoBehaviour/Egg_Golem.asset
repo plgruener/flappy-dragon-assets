@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Golem
+  m_EditorClassIdentifier:
+  id: 47
+  name: Golem Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 195f5a46a5077544ea5d2d29abdd093f, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: d9532cbe22473294aaee5056fe1d71e6, type: 2}
+  - {fileID: 11400000, guid: 7ed9a697d3eb6f849bba6a3d9ead0f8e, type: 2}
+  - {fileID: 11400000, guid: 57221fb92ac759641bbe5e9ada80891d, type: 2}
+  - {fileID: 11400000, guid: 4d25b0a1d495a094189670cd326c0a37, type: 2}
+  - {fileID: 11400000, guid: 6f189d231b653e94ba0290913db995bf, type: 2}
+  - {fileID: 11400000, guid: b055b66a1e7b95a4a8ff68ee1eea6314, type: 2}
+  - {fileID: 11400000, guid: c8698f62f562ab8449fa1a6115c01dd7, type: 2}
+  - {fileID: 11400000, guid: d2932b0df277a0f48bd408a22082ab6a, type: 2}
+  - {fileID: 11400000, guid: e4adeedf926249a449146db5ed8bf2c1, type: 2}
+  - {fileID: 11400000, guid: be386160509e993449ef72e1ba504dc3, type: 2}
+  - {fileID: 11400000, guid: 74faee06f17993e4d8d4caa64a393d1c, type: 2}
+  - {fileID: 11400000, guid: 6db09b8e6372e7b4fb586468460adeb0, type: 2}
+  - {fileID: 11400000, guid: 0bdb1aeea6df31f4e96e110871be079f, type: 2}
+  - {fileID: 11400000, guid: ed415e4dc72ca584fb522e6cc3879fe2, type: 2}
+  - {fileID: 11400000, guid: 04cdcec584d2b6c4da78fa5b7b8cdb2c, type: 2}
+  - {fileID: 11400000, guid: dda385253f3d5934e91c829d09276c3c, type: 2}
+  - {fileID: 11400000, guid: f890ae6d726de8c468a83a2585426b6d, type: 2}
+  - {fileID: 11400000, guid: 04865d1680d12174891010ab4e925e1f, type: 2}
+  - {fileID: 11400000, guid: 71f6179d371d9f3438145b87f5bb084d, type: 2}
+  - {fileID: 11400000, guid: d7ba7d8ec338e8e439e8fdc7ca2a2b2a, type: 2}
+  - {fileID: 11400000, guid: 48288afa41bdc5448923b7f224534a3f, type: 2}
+  nameKey: D_EGG.GOLEM.NAME
+  descriptionKey: D_EGG.GOLEM.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.54052794, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.69664824, b: 0.47843137, a: 1}
+  particleColor: {r: 0.8117647, g: 0.57516384, b: 0.32549018, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 14
+  material: {fileID: 2100000, guid: 661ff0275b42fd4458246087c354c06c, type: 2}
+  eggScale: {x: 0.9, y: 1, z: 0.9}
+  eggRotation: {x: 0, y: 150, z: 0}

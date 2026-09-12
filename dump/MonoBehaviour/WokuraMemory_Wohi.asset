@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f98bc325d1cbfd5ab66680485ff485, type: 3}
+  m_Name: WokuraMemory_Wohi
+  m_EditorClassIdentifier:
+  Type: 1
+  Material: {fileID: 2100000, guid: 493ac12768b5eb643989525882c80dec, type: 2}
+  ShinyMaterial: {fileID: 2100000, guid: 01177b9cc4664034c8f35b4a96839a72, type: 2}
+  MasteryMaterial: {fileID: 2100000, guid: c57f47d99f0d08e4ab72de18751025db, type: 2}
+  PrismaticMaterial: {fileID: 2100000, guid: 80833d0371c53a8419edd354440e98c9, type: 2}
+  Sprite: {fileID: 21300000, guid: 7bde285683222ff4193ce398465815be, type: 2}
+  MinRadius: 2
+  MaxRadius: 4
+  Amplitude: 0.25
+  Frequency: 5
+  AngularFrequency: 0.5
+  MovementSpeed: 2
+  TimeToLive: 30
+  SkillCooldown: 18
+  SkillDuration: 6
+  MemoryName: Wohi

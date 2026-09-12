@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36d6096f57b841f8fb6fc99a4b0d191, type: 3}
+  m_Name: PowerUp_SandsOfTime
+  m_EditorClassIdentifier:
+  id: 7
+  name: Sands of Time
+  description: Reduces the speed of time while the buff is active.
+  chance: 100
+  sprite: {fileID: 21300000, guid: 2cad6bbe43557624fb83d699c00c28c2, type: 2}
+  primaryColor: {r: 0.9058824, g: 0.7568628, b: 0.427451, a: 1}
+  secondaryColor: {r: 1, g: 0.8868698, b: 0.6367924, a: 1}
+  dramaticBackgroundColor: {r: 0.101960786, g: 0.053978186, b: 0, a: 0.5019608}
+  isActive: 1
+  isPassive: 0
+  duration: 6
+  radius: 0
+  power: 0
+  ticks: 0
+  newCameraOrthographicSize: 0
+  newTimeScale: 0.5
+  givesExtraLife: 0
+  givesExtraShield: 0
+  powerUpPickUpSound: {fileID: 11400000, guid: 2e0d8f82c902b9e4bb9c68ef584cebbe, type: 2}
+  powerUpActiveSound: {fileID: 0}
+  powerUpDestroySound: {fileID: 0}
+  powerUpPickupParticles: {fileID: 11400000, guid: 57158ec0668602e4eb47a17ffe3c3bda, type: 2}
+  localizedName:
+    mTerm: D_POWERUP.SANDS_OF_TIME.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_POWERUP.SANDS_OF_TIME.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  affectsControllerSpeed: 0
+  storedPowerupSprite: {fileID: 21300000, guid: cdd604c7f030a0c49a64502be8df6f3f, type: 2}
+  storedPowerupScaleMultiplier: 1
+  powerupDonutSprite: {fileID: 21300000, guid: 08b3b8900c9e5da4b9d369fc8f014b88, type: 2}

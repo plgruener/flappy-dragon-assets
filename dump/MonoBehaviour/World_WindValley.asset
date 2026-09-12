@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_WindValley
+  m_EditorClassIdentifier:
+  id: 6
+  name: Wind Valley
+  portrait: {fileID: 21300000, guid: 95f4d842dfe16ce4e8906970e232e341, type: 2}
+  themes:
+  - {fileID: 11400000, guid: 9e95e76006a18b642863cb1cde4bef55, type: 2}
+  - {fileID: 11400000, guid: ac270652b92ac894d84b464a5ebbb547, type: 2}
+  - {fileID: 11400000, guid: 343ccf18565a4134f89865ca64677260, type: 2}
+  - {fileID: 11400000, guid: b72be64c6e8a4bd488a9da3b1b00be88, type: 2}
+  - {fileID: 11400000, guid: 0327674531714a14f80476d7424015c1, type: 2}
+  - {fileID: 11400000, guid: abc45d170b6adb8429b94f9cdefbb89c, type: 2}
+  - {fileID: 11400000, guid: 1d2886d264e94bf4c9c04a0f798e8a87, type: 2}
+  - {fileID: 11400000, guid: 299579bbbce5b5b4fa71d2132e51437e, type: 2}
+  - {fileID: 11400000, guid: 6ef45838e015a5f409af6f0f474ff8a8, type: 2}
+  - {fileID: 11400000, guid: 91af14b277096d643ae1a70ed6b2aeab, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 87bc10bd0cb180445bccc23d2531b15e, type: 2}
+  - {fileID: 11400000, guid: 14f55a738e7532f4c973f8af6097a82e, type: 2}
+  - {fileID: 11400000, guid: 20ee5e002dc22ff4ab0a3cf3312077d6, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: 4d1e9f63589f67c44b3f1dcbf644e789, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: 5471a8be5e6dca44a83add20cc2d0056, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 90cfc16c1c575cf4f8a07bf59a2f195c, type: 2}
+  audioClip: {fileID: 11400000, guid: fc6defe13042ad74bb2d64cedc25389c, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.WIND_VALLEY.NAME
+  localizedDescriptionKey: D_WORLD.WIND_VALLEY.DESCRIPTION

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Cockatrice
+  m_EditorClassIdentifier:
+  id: 38
+  name: Cockatrice Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 3adf2bd511988d844bd5a7004a8d9a5f, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 65112b22424baf84aa36e9bb987ffc88, type: 2}
+  - {fileID: 11400000, guid: fc7e2d1d26d3e5a439315cb79bf5ee54, type: 2}
+  - {fileID: 11400000, guid: 7b8960003a0666748b3b151af4ff637d, type: 2}
+  - {fileID: 11400000, guid: 74dbcd7ce91b6e44a95cbddfdeb7be7a, type: 2}
+  - {fileID: 11400000, guid: ff8321bb2938c2141a113e988f38b643, type: 2}
+  - {fileID: 11400000, guid: 828481efc9b329a43aff5d4404328e7a, type: 2}
+  - {fileID: 11400000, guid: 24bdfcba0671ddf4894e21f538b537f4, type: 2}
+  - {fileID: 11400000, guid: f1b952e9702573841922c0d875ac3eaa, type: 2}
+  - {fileID: 11400000, guid: af5bc188e3f0f2246b480cec7de5eab1, type: 2}
+  - {fileID: 11400000, guid: 8facd26753a24854c8a1abbac3460f49, type: 2}
+  nameKey: D_EGG.COCKATRICE.NAME
+  descriptionKey: D_EGG.COCKATRICE.DESCRIPTION
+  cameraBackgroundColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 1}
+  outerBackgroundColor: {r: 0.8941177, g: 0.8980393, b: 0.8470589, a: 1}
+  particleColor: {r: 0.6039216, g: 0.6039216, b: 0.6039216, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 9
+  material: {fileID: 2100000, guid: 0d9d32b916e3e8b4fac1fa0f1e7fe3b8, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

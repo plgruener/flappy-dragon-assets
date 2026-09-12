@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Scorched
+  m_EditorClassIdentifier:
+  id: 68
+  name: Scorched egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 91b074609f60f884f981ec5815ec9c04, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 5a87adb84178abb49ad2a8869cff7210, type: 2}
+  - {fileID: 11400000, guid: 57221fb92ac759641bbe5e9ada80891d, type: 2}
+  - {fileID: 11400000, guid: 7022b78d8ccce3542940e92398eef75d, type: 2}
+  - {fileID: 11400000, guid: 3f7044b14ca583842b0df177f5285efc, type: 2}
+  - {fileID: 11400000, guid: 9aa058d5d11426240ac236c9b2065f69, type: 2}
+  - {fileID: 11400000, guid: 24bdfcba0671ddf4894e21f538b537f4, type: 2}
+  - {fileID: 11400000, guid: f35e285776d4eb34cb3f6a7afe10cf9c, type: 2}
+  - {fileID: 11400000, guid: 657f40f9de8114e49a39afb3f80fa680, type: 2}
+  - {fileID: 11400000, guid: 075c5fd597375fd44b9443be088994e4, type: 2}
+  - {fileID: 11400000, guid: d3281da5fc6a53842b9ec2442a9f1679, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_SCORCHED
+  descriptionKey: D_EGG.SCORCHED.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.54052794, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.47843137, b: 0.49237737, a: 1}
+  particleColor: {r: 0.8117647, g: 0.32549018, b: 0.3635061, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 6
+  material: {fileID: 2100000, guid: dc1e1d494f1b93b4bb2adc85cae8a68f, type: 2}
+  eggScale: {x: 0.9, y: 1, z: 0.9}
+  eggRotation: {x: 0, y: 150, z: 0}

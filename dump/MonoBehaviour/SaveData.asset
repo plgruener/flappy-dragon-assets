@@ -1,0 +1,2278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929f8ea96390bb97829875f6b608dba0, type: 3}
+  m_Name: SaveData
+  m_EditorClassIdentifier:
+  currentDragonID: 1
+  crowns: 100
+  dragonPersistence:
+  - dragonShards: 1
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  - dragonShards: 0
+    highscore: 0
+    score: 0
+    collectedRewards: 00000000000000000000000000000000000000000000000000000000000000
+    isFavourite: 0
+    isNew: 0
+    dragonShinyShards: 0
+    equippedSkin: 0
+    hasPrismaticSkin: 0
+  eggItems: []
+  unlockedNests: 01000000000000000000
+  nestLevels: 01000000010000000100000001000000010000000100000001000000010000000100000001000000
+  lastDate: 08/28/2026 12:20:45
+  hasPlayed: 0
+  hasPurchasedMythicEgg: 0
+  hasPurchasedCrownsPack1: 0
+  hasPurchasedCrownsPack2: 0
+  hasPurchasedCrownsPack3: 0
+  hasPurchasedCrownsPack4: 0
+  hasPurchasedCrownsPack5: 0
+  hasPurchasedCrownsPack6: 0
+  dailyRefreshRemainingTime: 86399
+  freeOfferEgg1ID: 34
+  freeOfferEgg1Claimed: 0
+  freeOfferEgg2ID: 57
+  freeOfferEgg2Claimed: 0
+  freeOfferEgg3ID: 20
+  freeOfferEgg3Claimed: 0
+  dailyOfferEgg1ID: 15
+  dailyOfferEgg2ID: 7
+  dailyOfferEgg3ID: 71
+  adsWatched: 0
+  activeQuests:
+  - questID: 26
+    difficulty: 0
+    progress: 0
+    completed: 0
+    aux: -1
+    questRewardType: 0
+  - questID: 48
+    difficulty: 0
+    progress: 0
+    completed: 0
+    aux: -1
+    questRewardType: 0
+  - questID: 15
+    difficulty: 0
+    progress: 0
+    completed: 0
+    aux: -1
+    questRewardType: 0
+  questEggID: 9
+  dailyBonusDay: 0
+  dailyBonusCollected: 0
+  misteryEggs: 0
+  gamesPlayed: 0
+  eggsOpened: 0
+  questsCompleted: 0
+  woodenChestFound: 0
+  ironChestFound: 0
+  goldenChestFound: 0
+  runicChetFound: 0
+  dragonHeartUsed: 0
+  giantMushroomUsed: 0
+  fairyDustUsed: 0
+  dragonSensesUsed: 0
+  dragonChilliUsed: 0
+  thunderCloudUsed: 0
+  sandsOfTimeUsed: 0
+  cosmicStarsUsed: 0
+  luckyCharmUsed: 0
+  curvedSpoonUsed: 0
+  ronokaMountainsExplored: 0
+  pipelandExplored: 0
+  scalesRoadExplored: 0
+  arehmaDesertExplored: 0
+  dragoniteMinesExplored: 0
+  coralReefExplored: 0
+  windValleyExplored: 0
+  canaryIslandsExplored: 0
+  hasWatchedRateUsPopup: 0
+  stellarDonuts: 0
+  stellarDonut1Claimed: 0
+  stellarDonut2Claimed: 0
+  stellarDonut3Claimed: 0
+  shinyStellarDonuts: 0
+  shinyStellarDonut1Claimed: 0
+  shinyStellarDonut2Claimed: 0
+  shinyStellarDonut3Claimed: 0
+  shinyProtection: 0
+  prismaticStellarDonuts: 0
+  worldmapBonifications:
+  - worldID: 21
+    worldBonificationType: 3
+    bonificationID: 0
+  - worldID: 11
+    worldBonificationType: 2
+    bonificationID: 5
+  - worldID: 10
+    worldBonificationType: 4
+    bonificationID: 0
+  eggCapConversionTokens: 0
+  lairs:
+  - isUnlocked: 1
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  - isUnlocked: 0
+    dragonParentA: 0
+    dragonParentB: 0
+    affinity: 0
+    level: 1
+    remainingTime: 0
+    isBreeding: 0
+  filterPersistence:
+    orderByPreference: 0
+    filteringByCollectionStatus: 0
+    filteringByLockedStatus: 0
+    filteringByControlType: 0
+    filteringByEgg: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    filteringByName:
+  dragonSelectionFilterPersistence:
+    orderByPreference: 0
+    filteringByCollectionStatus: 0
+    filteringByLockedStatus: 0
+    filteringByControlType: 0
+    filteringByEgg: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    filteringByName:
+  currentEquippedPowerupDonutID: 0
+  powerupDonuts: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  bakeryRefreshRemainingTime: 3599
+  bakeryDonut1ID: 8
+  bakeryDonut1Claimed: 0
+  bakeryDonut2ID: 4
+  bakeryDonut2Claimed: 0
+  bakeryDonut3ID: 6
+  bakeryDonut3Claimed: 0
+  versionID: 500
+  hasAdGlitch: 0
+  stellarDonutCap: 999
+  babyDragonId: 0

@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Etipan
+  m_EditorClassIdentifier:
+  id: 202
+  name: Etipan
+  type: 4
+  rarity: 2
+  controlType: 0
+  horizontalSpeed: 3.0923429
+  verticalSpeed: 5.088123
+  gravity: 9.889633
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.5, w: 0.8660254}
+  qDown: {x: 0, y: 0, z: 0.8660254, w: -0.50000006}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.ETIPAN
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 0
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 2
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.55
+      value: 0.0765
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.65
+      value: 0.2125
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.75
+      value: 0.0765
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 0
+  tailTime: 0.2625
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 0717e5ce72fc7174f820b122b6b62940, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: c98ae40e549b1634ebf01117eec10217, type: 2}
+  skinShiny: {fileID: 11400000, guid: 4d021cb6e31b2be47b5e63b8a1f2072c, type: 2}
+  skinMastery: {fileID: 11400000, guid: 1a358f2e187eae9438aa357a2e4b979b, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: b955dd3f306e02447a0ca122a74a78cd, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 48af91002e7fa194c8c894864106ad5f, type: 2}
+  - {fileID: 11400000, guid: 17c749d1ba72ea34592f347b6834f50c, type: 2}

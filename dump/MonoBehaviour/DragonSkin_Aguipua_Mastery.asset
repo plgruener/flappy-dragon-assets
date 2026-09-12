@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a3225d4c345cd62d313f11ae98cd84, type: 3}
+  m_Name: DragonSkin_Aguipua_Mastery
+  m_EditorClassIdentifier:
+  dragonUp: {fileID: 21300000, guid: 6c314452a236b9b42b33f0a2dd753301, type: 2}
+  dragonDown: {fileID: 21300000, guid: 960da9fc88ef6fc46897743fc37468dc, type: 2}
+  tailColor:
+    serializedVersion: 2
+    key0: {r: 0.56078434, g: 0.7568628, b: 0.2392157, a: 1}
+    key1: {r: 0.56078434, g: 0.7568628, b: 0.2392157, a: 1}
+    key2: {r: 0.8745099, g: 0.32156864, b: 0.4901961, a: 0}
+    key3: {r: 0.8745099, g: 0.32156864, b: 0.4901961, a: 0}
+    key4: {r: 0.78823537, g: 0.854902, b: 0.32156864, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 42598
+    ctime2: 65535
+    ctime3: 65535
+    ctime4: 65535
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 1
+    m_ColorSpace: -1
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  primaryColor: {r: 0.7960785, g: 0.6, b: 1, a: 1}
+  skillColor: {r: 0, g: 0, b: 0, a: 1}
+  dragonMaterial: {fileID: 2100000, guid: 2aecb725abb961b428a1a04335dbadfb, type: 2}
+  tailMaterial: {fileID: 2100000, guid: 1f0ff374f0b683f45a70427fa41cd538, type: 2}
+  maskedMaterial: {fileID: 2100000, guid: d0f56ddf2ede9b142b82bd4e540b991c, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Royal_CoralReefWaterPunch
+  m_EditorClassIdentifier:
+  name: CoralReefWaterPunch
+  clipReferences:
+  - m_AssetGUID: 628a04857926e384981f6ac3716e38c0
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 9e2599dc3112c4f41b0bddaa0face4a2
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 3fe539a70426cae4eb68f885f2c995a5
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 231d7ab6594400d4a91ab7aab99cd338
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: bb524b074b7cc3a469c6ea69da476ee2
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 2
+  BPM: 0

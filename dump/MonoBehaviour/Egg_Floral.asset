@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Floral
+  m_EditorClassIdentifier:
+  id: 64
+  name: Floral egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 4037125aa7b560241b8caa1ca366cd25, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: df78f0afdb3814047b9e46b660a6440d, type: 2}
+  - {fileID: 11400000, guid: 29ce0c093add0d74a93c2184a2e467f5, type: 2}
+  - {fileID: 11400000, guid: 598bdd8c4d794e44daeee1277101f980, type: 2}
+  - {fileID: 11400000, guid: 4eaf50811ce46af4a86b41c67e67aacf, type: 2}
+  - {fileID: 11400000, guid: 54df6cc1a4789db4a8a2ec2dd30477da, type: 2}
+  - {fileID: 11400000, guid: 4044f4bd5d36f2548bb2d015c22856e0, type: 2}
+  - {fileID: 11400000, guid: 26aead8f9859284468e151d73f828aa1, type: 2}
+  - {fileID: 11400000, guid: f3abb3349f88f7544a7bbae4a8b8a31f, type: 2}
+  - {fileID: 11400000, guid: dc2bd1810cb187d418af08475b461c05, type: 2}
+  - {fileID: 11400000, guid: f57d0a340badce543ae947397b039c74, type: 2}
+  - {fileID: 11400000, guid: 88aeab46f6f17c446af8581714fbff50, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_FLORAL
+  descriptionKey: D_EGG.FLORAL.DESCRIPTION
+  cameraBackgroundColor: {r: 0.65353477, g: 0.8156863, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.5778758, a: 1}
+  particleColor: {r: 0.33149293, g: 0.8117647, b: 0.32549018, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 2
+  material: {fileID: 2100000, guid: f6bb54213e4be0b4583ee795ad705a57, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}

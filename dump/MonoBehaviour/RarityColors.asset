@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4f330db7772aca303b30b698a89147, type: 3}
+  m_Name: RarityColors
+  m_EditorClassIdentifier:
+  commonColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  uncommonColor: {r: 0.4265625, g: 0.6, b: 0.15, a: 1}
+  rareColor: {r: 0.1490196, g: 0.46208647, b: 0.6, a: 1}
+  epicColor: {r: 0.4683921, g: 0.1490196, b: 0.6, a: 1}
+  legendaryColor: {r: 0.6, g: 0.4695227, b: 0.1490196, a: 1}
+  mythicColor: {r: 0.6, g: 0.1490196, b: 0.31634873, a: 1}
+  common: {fileID: 21300000, guid: 485375083b700514092072bc5456fb8d, type: 2}
+  uncommon: {fileID: 21300000, guid: e828d3582b4f9254b9599c51a3de42b9, type: 2}
+  rare: {fileID: 21300000, guid: 80fab52041b5bc1458965dbb66218598, type: 2}
+  epic: {fileID: 21300000, guid: cd5e73f60b0fcc345b5b1d5cad3b4948, type: 2}
+  legendary: {fileID: 21300000, guid: 1b1a731b70b90324f82dd1f27265f778, type: 2}
+  mythic: {fileID: 21300000, guid: 1f62667eb4e44dd4484b747aa086879c, type: 2}

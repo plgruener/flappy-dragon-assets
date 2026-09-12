@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_ArehmaDesert
+  m_EditorClassIdentifier:
+  id: 3
+  name: Arehma Desert
+  portrait: {fileID: 21300000, guid: b3d7c4e04a8d0c947b09f48589687b26, type: 2}
+  themes:
+  - {fileID: 11400000, guid: c30f426507d3dee4183cd0392e12914a, type: 2}
+  - {fileID: 11400000, guid: 138418a5fb103ec418e7c72a3a3bc0e5, type: 2}
+  - {fileID: 11400000, guid: fb34cb4298aa8ef489cfb177ad473ae1, type: 2}
+  - {fileID: 11400000, guid: 8eaa6db04994c8045837cfbdd33dda00, type: 2}
+  - {fileID: 11400000, guid: a46cd4da59ebac84ebb5b8eae94b254f, type: 2}
+  - {fileID: 11400000, guid: a4ed2d0c5ac0d1e4fbd483f81a3f3cd2, type: 2}
+  - {fileID: 11400000, guid: 24806ea1b11eff44280e195703c373c9, type: 2}
+  - {fileID: 11400000, guid: 45bfb972be49bdd4793bfd952842e977, type: 2}
+  - {fileID: 11400000, guid: 7088edb19ed9b6d47899c7c348ee4f49, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 4f0faea057b87484ba097f70fdb6c19a, type: 2}
+  - {fileID: 11400000, guid: 8180a03ad2322454691cce5dfcd8716a, type: 2}
+  - {fileID: 11400000, guid: 848e1c75bc17e2a469b538613b80edeb, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: 322cde968deb3bb4ebdaf540f804007d, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: f5477f3765dc87f4bb7dbeb17857a489, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: ce49fd0a1510d0840ae7233ad5f2f56d, type: 2}
+  audioClip: {fileID: 11400000, guid: a7aa82a1666188a4490722983068d577, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.AREHMA_DESERT.NAME
+  localizedDescriptionKey: D_WORLD.AREHMA_DESERT.DESCRIPTION

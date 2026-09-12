@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Drake
+  m_EditorClassIdentifier:
+  id: 40
+  name: Drake Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 599c01ebc5f50eb43ae9ad527ad2dff4, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 22af116063c31a04b9e1012c0606f556, type: 2}
+  - {fileID: 11400000, guid: 464e06c0618d30b449a334adb91bee2d, type: 2}
+  - {fileID: 11400000, guid: 1fa3da1a90d67bc47bd153efc1a254c6, type: 2}
+  - {fileID: 11400000, guid: 81109ca8474e4e04996eb4c111cd98d7, type: 2}
+  - {fileID: 11400000, guid: 653816a2319dc3a4bbdc41a307ffd467, type: 2}
+  - {fileID: 11400000, guid: d06150374d155a740a2bf81d09b8d9d0, type: 2}
+  - {fileID: 11400000, guid: 2a52b6ca240b12a4ebaa6fb7e28b2a1f, type: 2}
+  - {fileID: 11400000, guid: ea40c391c6412ea40a4e5c67ef4a7805, type: 2}
+  - {fileID: 11400000, guid: f49e1323d883dfa4194c8a9b650396d0, type: 2}
+  - {fileID: 11400000, guid: 01a4ab44653a73e4096d04fd1daa21c7, type: 2}
+  - {fileID: 11400000, guid: ed2a2950462d1584da9aca709d71b426, type: 2}
+  - {fileID: 11400000, guid: 77ab80cf95cc49f429a223a32e720cb7, type: 2}
+  - {fileID: 11400000, guid: 840f75b689b36114fb1ea90fc9adb74b, type: 2}
+  - {fileID: 11400000, guid: c90573a81e19efa4a81bbec0582680d4, type: 2}
+  - {fileID: 11400000, guid: 53a33b40d9f1ff144a5405e06da06c26, type: 2}
+  - {fileID: 11400000, guid: 7eb964e480214ab4586585f40a2c008a, type: 2}
+  - {fileID: 11400000, guid: 7d3507e0aecc2e64cbf4cc866b0fa563, type: 2}
+  - {fileID: 11400000, guid: 88a15a903dc460844bdd82f222371f81, type: 2}
+  - {fileID: 11400000, guid: 88aeab46f6f17c446af8581714fbff50, type: 2}
+  nameKey: D_EGG.DRAKE.NAME
+  descriptionKey: D_EGG.DRAKE.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.5844846, b: 0.8156863, a: 1}
+  outerBackgroundColor: {r: 0.3764706, g: 0.4693844, b: 0.6784314, a: 1}
+  particleColor: {r: 0.3764706, g: 0.48899668, b: 0.6784314, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 5
+  material: {fileID: 2100000, guid: 404dbf59891cd2848a809289ce502d53, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

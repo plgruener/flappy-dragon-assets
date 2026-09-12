@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1535f171025841728fe7a037e303d20c, type: 3}
+  m_Name: Quest_Powerless
+  m_EditorClassIdentifier:
+  id: 32
+  nameKey: D_QUEST.POWERLESS.NAME
+  descriptionKey: D_QUEST.POWERLESS.DESCRIPTION
+  resetsProgressEachGame: 1
+  notifyProgress: 0
+  icon: {fileID: 21300000, guid: dd667e4b5ec1cd74ebc65f3456f6c10e, type: 2}
+  objectivesByDifficulty: 19000000320000004b000000
+  rewardLevel: 1.5
+  randomWorldRequisite: 0
+  hasRandomDragonTypeRequisite: 0
+  hasRandomDragonRarityRequisite: 0
+  hasRandomControlRequisite: 0

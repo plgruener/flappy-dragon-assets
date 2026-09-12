@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_EggCrack
+  m_EditorClassIdentifier:
+  name: EggCrack
+  clipReferences:
+  - m_AssetGUID: 438ea1f375f999b4baff3c641bd6fdc9
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 1ec67879f82e4e54c88ccf6a4c3e3724
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 977216812792e1d459f34d937dbbe20e
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 2
+  BPM: 0

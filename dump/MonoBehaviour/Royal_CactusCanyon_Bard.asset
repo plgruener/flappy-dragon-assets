@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_CactusCanyon_Bard
+  m_EditorClassIdentifier:
+  id: 60
+  name: Bard
+  idle: {fileID: 21300000, guid: 48bcb33d90bb8144f96290e7234bda0a, type: 2}
+  idle2: {fileID: 21300000, guid: 48bcb33d90bb8144f96290e7234bda0a, type: 2}
+  deathParticles: {fileID: 11400000, guid: a0e32f5f4a739c642b540065c214188c, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.19125, y: 0.19125, z: 0.19125}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 1
+  hasExtraAtrezzo: 1
+  extraAtrezzoOffset: {x: -1.812, y: 1.69}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: d9e1db2a3f6820049be7b8142f67b745, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 0, y: -6, z: 0}
+  worldmapScaleOffset: {x: 1, y: 1, z: 1}

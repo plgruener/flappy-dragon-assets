@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Wild
+  m_EditorClassIdentifier:
+  id: 61
+  name: Wild Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 3fdd2e6b9c353da40919ad0e7856a038, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: f35e285776d4eb34cb3f6a7afe10cf9c, type: 2}
+  - {fileID: 11400000, guid: f1b952e9702573841922c0d875ac3eaa, type: 2}
+  - {fileID: 11400000, guid: 826d092665faa72488813b8bd1b50e30, type: 2}
+  - {fileID: 11400000, guid: 24bdfcba0671ddf4894e21f538b537f4, type: 2}
+  - {fileID: 11400000, guid: 71f6179d371d9f3438145b87f5bb084d, type: 2}
+  - {fileID: 11400000, guid: 8c80131ee68277d4a9a2be3ac81dddc6, type: 2}
+  - {fileID: 11400000, guid: a01cd938ef0aa674f8d34f387a44cc2f, type: 2}
+  - {fileID: 11400000, guid: 828481efc9b329a43aff5d4404328e7a, type: 2}
+  nameKey: D_EGG.WILD.NAME
+  descriptionKey: D_EGG.WILD.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.54052794, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.47843137, b: 0.49237737, a: 1}
+  particleColor: {r: 0.8117647, g: 0.32549018, b: 0.3635061, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 31
+  material: {fileID: 2100000, guid: 05a46fd49ea7d7d469cd6c129967c892, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

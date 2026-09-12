@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Dragon_Bite
+  m_EditorClassIdentifier:
+  name: DragonBite
+  clipReferences:
+  - m_AssetGUID: 5223886212d94194bb8109b9d2cd153a
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 266dbe34995a3434e82b2c4989fac221
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 83c346b4c124a9c48809377eba8a4acf
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 3a6d3758ff614e44da8d8e4bb1fb3011
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: c1ef629cfd8ded84fb43fcb444fbaec5
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: dd10b39296d560a4489a2cd7ea07e62a
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: bfc78c2873f35674aa7dbe04b516280d
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 823a6bcb4a338df4da514e9a141beb75
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 3
+  BPM: 0

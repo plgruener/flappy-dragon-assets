@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb30f403fd858219f3476f5eea6dc837, type: 3}
+  m_Name: Skill_VortexJaws
+  m_EditorClassIdentifier:
+  id: 219
+  name: Vortex jaws
+  description: Gain a magnetic aura
+  localizedName:
+    mTerm: D_ABILITY.VORTEX_JAWS.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_ABILITY.VORTEX_JAWS.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  hasPrimaryValueModifiers: 0
+  prefixValuePrimary:
+  suffixValuePrimary:
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  minValuePrimary: 0.5
+  maxValuePrimary: 5
+  minValueSecondary: 0
+  maxValueSecondary: 0
+  isActive: 0
+  minValueCooldown: 60
+  maxValueCooldown: 30
+  activateCondition: 0
+  icon: {fileID: 21300000, guid: 3fdef0c07f8486042bd1df0b033c355f, type: 2}
+  prefab: {fileID: 0}
+  isProgrammed: 1
+  increaseRoyalAppearenceChance: 0
+  increaseChestAppearenceChance: 0
+  increaseEggAppearenceChance: 0
+  increasePowerUpAppearenceChance: 0
+  increasePortalAppearenceChance: 0
+  increaseStellarDonutAppearenceChance: 0

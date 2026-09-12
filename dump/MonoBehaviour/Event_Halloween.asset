@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5998037cced569a833790bc2a66a3ee5, type: 3}
+  m_Name: Event_Halloween
+  m_EditorClassIdentifier:
+  id: 10
+  nameKey: D_EVENT.HALLOWEEN.NAME
+  mainWorld: {fileID: 11400000, guid: 6429f49f06285fc41a97a3b50a66372c, type: 2}
+  mainTheme: {fileID: 11400000, guid: adba258362285bd49851308bb86d0228, type: 2}
+  egg: {fileID: 11400000, guid: 06fd4ae8b7514ca4795be141b68c6144, type: 2}

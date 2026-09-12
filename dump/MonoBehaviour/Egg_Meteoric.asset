@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Meteoric
+  m_EditorClassIdentifier:
+  id: 69
+  name: Meteoric egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 241c79872ddc3ac4880e2f3855f9975c, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 6f189d231b653e94ba0290913db995bf, type: 2}
+  - {fileID: 11400000, guid: 4ad677e813c582043b6d9878081923aa, type: 2}
+  - {fileID: 11400000, guid: 35592ab9f4860c4499983b80dff79275, type: 2}
+  - {fileID: 11400000, guid: b693820300ba82a40be9fc6a9a7ed2b6, type: 2}
+  - {fileID: 11400000, guid: 7e1af3eed00a15b4cbe5b29c75241d07, type: 2}
+  - {fileID: 11400000, guid: db8d41ab0b72a614fa93dce3b0ea16fb, type: 2}
+  - {fileID: 11400000, guid: 6b1543136e79f814bacdb3607296c876, type: 2}
+  - {fileID: 11400000, guid: 01a4ab44653a73e4096d04fd1daa21c7, type: 2}
+  - {fileID: 11400000, guid: 2a52b6ca240b12a4ebaa6fb7e28b2a1f, type: 2}
+  - {fileID: 11400000, guid: bde2bdc04a8f54046977bc2f44bdf9bf, type: 2}
+  - {fileID: 11400000, guid: dabf4095156b2ad438ea451a2a4746ba, type: 2}
+  - {fileID: 11400000, guid: 77682f250c95c6d43b88910e5df7a3e8, type: 2}
+  - {fileID: 11400000, guid: baff1f7bdb2a3094e97278e7f61cc2de, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_METEORIC
+  descriptionKey: D_EGG.METEORIC.DESCRIPTION
+  cameraBackgroundColor: {r: 0.52575165, g: 0.371529, b: 0.6509434, a: 1}
+  outerBackgroundColor: {r: 0.58946747, g: 0.37486652, b: 0.6792453, a: 1}
+  particleColor: {r: 0.67159075, g: 0.40997687, b: 0.7830189, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 7
+  material: {fileID: 2100000, guid: ce55db8fc0ee96d4ca635b284c5719da, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}

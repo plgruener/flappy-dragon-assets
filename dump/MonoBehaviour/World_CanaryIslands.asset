@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_CanaryIslands
+  m_EditorClassIdentifier:
+  id: 7
+  name: Canary Islands
+  portrait: {fileID: 21300000, guid: c9efaa571d620e447914d8e5ea3fddbb, type: 2}
+  themes:
+  - {fileID: 11400000, guid: acd4f033afce6354aa829fcc2e97aa4c, type: 2}
+  - {fileID: 11400000, guid: 0532203cdf790e34095765638f436a86, type: 2}
+  - {fileID: 11400000, guid: e4dd6763950add9469ea210238bf7ace, type: 2}
+  - {fileID: 11400000, guid: a22c133a007920440a25ad06a1f6b587, type: 2}
+  - {fileID: 11400000, guid: e1af892269096124ab9351856eae008c, type: 2}
+  - {fileID: 11400000, guid: 3125f8af47df58c4f8c9a8495fd4c5fd, type: 2}
+  - {fileID: 11400000, guid: 4e8ca4297f9f5934aaf049cb8757a073, type: 2}
+  royals:
+  - {fileID: 11400000, guid: ed44972078c938f4b8e09ed044509e41, type: 2}
+  - {fileID: 11400000, guid: 66b806e72e1f76042ae40310971b9358, type: 2}
+  - {fileID: 11400000, guid: c1c4b1541e36efa4988c515a76b4f77a, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: f5b32a16ff571004ba4ff003c191cfd5, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: be5f074c22b5b0a4bbe8ad9ed0df31f6, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: e7a93f7f852f81b4eb7049262c22b03d, type: 2}
+  audioClip: {fileID: 11400000, guid: f51a3d35f276dec48996acf291afcd2c, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.CANARY_ISLANDS.NAME
+  localizedDescriptionKey: D_WORLD.CANARY_ISLANDS.DESCRIPTION

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_Spookylvania_CreepyTree
+  m_EditorClassIdentifier:
+  id: 42
+  name: Creepy Tree
+  idle: {fileID: 21300000, guid: e9fe683b68f0f8849af629a69e3382d3, type: 2}
+  idle2: {fileID: 21300000, guid: 5cb5e64ca1172734d9b7f82fdde26d92, type: 2}
+  deathParticles: {fileID: 11400000, guid: 2a10abd53abece84b84cbf8bcb003311, type: 2}
+  transformOffset: {x: 0, y: -0.15, z: 0}
+  transformScale: {x: 0.2390625, y: 0.2390625, z: 0.2390625}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 0
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: 54a08b6b2e1fb5247a34bb254bcbb250, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: -1, y: -24, z: 0}
+  worldmapScaleOffset: {x: 1.5, y: 2, z: 1.5}

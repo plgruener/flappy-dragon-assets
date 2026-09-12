@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_River
+  m_EditorClassIdentifier:
+  id: 71
+  name: River Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 7f43f5837b4203b4996860b1ba07d27f, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 653816a2319dc3a4bbdc41a307ffd467, type: 2}
+  - {fileID: 11400000, guid: 9a615e37c3716754699a3cbafa322b33, type: 2}
+  - {fileID: 11400000, guid: 88aeab46f6f17c446af8581714fbff50, type: 2}
+  - {fileID: 11400000, guid: 65c3e9078baeacc4eb96eeaa6fbb6dec, type: 2}
+  - {fileID: 11400000, guid: 28eae9b316dc95540b117f302284b3b7, type: 2}
+  nameKey: D_EGG.RIVER.NAME
+  descriptionKey: D_EGG.RIVER.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.7607843, b: 0.8156863, a: 1}
+  outerBackgroundColor: {r: 0.22745098, g: 0.53333336, b: 0.5568628, a: 1}
+  particleColor: {r: 0.32549018, g: 0.7518583, b: 0.8117647, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 34
+  material: {fileID: 2100000, guid: bbaaaea1ff8fb6c46b5ac4c5d6dcd533, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}

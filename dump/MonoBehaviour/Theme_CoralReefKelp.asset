@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_CoralReefKelp
+  m_EditorClassIdentifier:
+  worldId: 5
+  id: 38
+  name: Coral Reef Kelp
+  portrait: {fileID: 21300000, guid: 2f4c306cd814e4b4d8d7f17d5be70ec0, type: 2}
+  isNight: 0
+  hasStars: 0
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0
+  windForce: 0
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 0.80784315, g: 1, b: 0.9406028, a: 1}
+  skyMaterial: {fileID: 2100000, guid: d8d2b0c11643ebb4a8588279f1aa97f0, type: 2}
+  cloudColor: {r: 1, g: 1, b: 1, a: 1}
+  environment: {fileID: 1709254077376921, guid: 48ba8ca20d166f74b94958d74bf4c213, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 0
+  starsColor: {r: 0, g: 0, b: 0, a: 0}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

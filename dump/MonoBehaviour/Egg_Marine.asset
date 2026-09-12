@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Marine
+  m_EditorClassIdentifier:
+  id: 56
+  name: Marine Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 93f500ef05909464399c70f1aed58e16, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 6d1f1cf0622574c4fb95fb325d7bc151, type: 2}
+  - {fileID: 11400000, guid: ccf52ea8eabb60b48a016fdbe16a1d82, type: 2}
+  - {fileID: 11400000, guid: 977d028eb6798f64e96b9386d40eb762, type: 2}
+  - {fileID: 11400000, guid: 397b275be95b9d5439ebea7943522aa1, type: 2}
+  - {fileID: 11400000, guid: a5ca37b71ecbebb41b303a5ceee2d1ba, type: 2}
+  - {fileID: 11400000, guid: 51ec3ad54c8882d46a955a633407adce, type: 2}
+  - {fileID: 11400000, guid: 7b8960003a0666748b3b151af4ff637d, type: 2}
+  - {fileID: 11400000, guid: 4f405044498ac454db755c705743dc00, type: 2}
+  - {fileID: 11400000, guid: 6839e2bc92713e8469c6b4a3872db62c, type: 2}
+  nameKey: D_EGG.MARINE.NAME
+  descriptionKey: D_EGG.MARINE.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.6602233, a: 1}
+  outerBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.6910596, a: 1}
+  particleColor: {r: 0.32549018, g: 0.8117647, b: 0.64939845, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 23
+  material: {fileID: 2100000, guid: 3272f58222efd7043849ab4a80e95e9f, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

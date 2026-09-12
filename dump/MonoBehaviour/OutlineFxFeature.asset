@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66aa995a44c3418e49be79b8f8a4e00, type: 3}
+  m_Name: OutlineFxFeature
+  m_EditorClassIdentifier:
+  m_Active: 0
+  _event: 550
+  _solid: 0
+  _thickness: 0.05
+  _alphaCutout: 0.4
+  _mode: 0
+  _filter: 1
+  _attachDepth: 1
+  _output:
+    enabled: 0
+    value: _globalTex
+  _solidMask:
+    _enabled: 0
+    _pattern: {fileID: 2800000, guid: fdcff280cd4604a4988d9294632badf7, type: 3}
+    _scale: 50
+    _velocity: {x: 0, y: 0}
+  _shader: {fileID: 4800000, guid: a749fa9f483e9814ebcc845ad2fdc63b, type: 3}

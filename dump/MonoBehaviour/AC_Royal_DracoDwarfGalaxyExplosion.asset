@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Royal_DracoDwarfGalaxyExplosion
+  m_EditorClassIdentifier:
+  name: DracoDwarfGalaxyExplosion
+  clipReferences:
+  - m_AssetGUID: 0d9ae018df705c4449ccb43f1431fdd5
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: f77e1952ab79d8b44bf83f10fcbbbfee
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 85ffaa7957b6f3a4e8374b8b2d942946
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 2
+  BPM: 0

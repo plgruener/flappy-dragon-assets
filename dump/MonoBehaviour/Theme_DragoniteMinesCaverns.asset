@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_DragoniteMinesCaverns
+  m_EditorClassIdentifier:
+  worldId: 4
+  id: 31
+  name: Dragonite Mines Caverns
+  portrait: {fileID: 21300000, guid: 7e94d8204ce5c5345aca1ee1891f4a33, type: 2}
+  isNight: 0
+  hasStars: 0
+  hasMist: 1
+  hasHighLevelClouds: 0
+  cloudDensity: 0
+  windForce: 0
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 1}
+  skyMaterial: {fileID: 2100000, guid: 03702ee8b8351e04f846011658341168, type: 2}
+  cloudColor: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
+  environment: {fileID: 1709254077376921, guid: 393eb256ba8b01a4cbb77f574d3068e5, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 0
+  starsColor: {r: 0, g: 0, b: 0, a: 0}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

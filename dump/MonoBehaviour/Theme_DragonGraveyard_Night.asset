@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_DragonGraveyard_Night
+  m_EditorClassIdentifier:
+  worldId: 19
+  id: 150
+  name: Dragon Graveyard Night
+  portrait: {fileID: 21300000, guid: afe9e2ac8ee009143b6fd01844748812, type: 2}
+  isNight: 1
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0.3
+  windForce: 0.25
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 1, g: 0.8066038, b: 0.8803997, a: 1}
+  skyMaterial: {fileID: 2100000, guid: 631a5e635e59d404088bb81c23bf3948, type: 2}
+  cloudColor: {r: 0.3137255, g: 0.29411766, b: 0.38431373, a: 1}
+  environment: {fileID: 1709254077376921, guid: ddf728a4902c9dc42a9e3c452293c079, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.87058824, g: 0.79607844, b: 1, a: 1}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

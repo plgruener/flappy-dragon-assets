@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Harvest
+  m_EditorClassIdentifier:
+  id: 70
+  name: Harvest egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 4e03770d0fdd92e4294e113f75a827b4, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 8d2d0ca8267d9da49893af63a51db510, type: 2}
+  - {fileID: 11400000, guid: 8c80131ee68277d4a9a2be3ac81dddc6, type: 2}
+  - {fileID: 11400000, guid: a5ca37b71ecbebb41b303a5ceee2d1ba, type: 2}
+  - {fileID: 11400000, guid: 74eb2d4f800be0c4cb1ae1056c083df5, type: 2}
+  - {fileID: 11400000, guid: 464e06c0618d30b449a334adb91bee2d, type: 2}
+  - {fileID: 11400000, guid: 2318c0b56edc5e74089127084f9d7b3d, type: 2}
+  - {fileID: 11400000, guid: 7ed9a697d3eb6f849bba6a3d9ead0f8e, type: 2}
+  - {fileID: 11400000, guid: 22af116063c31a04b9e1012c0606f556, type: 2}
+  - {fileID: 11400000, guid: 1994c69699e0ed949a2a7af0376e3b6f, type: 2}
+  - {fileID: 11400000, guid: 05a2c8a0a87113f46aec3661d4f69f40, type: 2}
+  - {fileID: 11400000, guid: 65c3e9078baeacc4eb96eeaa6fbb6dec, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_HARVEST
+  descriptionKey: D_EGG.HARVEST.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.54052794, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.69664824, b: 0.47843137, a: 1}
+  particleColor: {r: 0.8117647, g: 0.57516384, b: 0.32549018, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 8
+  material: {fileID: 2100000, guid: 26101a03dfdcc224f9ac505bf74e0620, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}

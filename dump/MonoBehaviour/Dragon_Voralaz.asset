@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Voralaz
+  m_EditorClassIdentifier:
+  id: 133
+  name: Voralaz
+  type: 1
+  rarity: 4
+  controlType: 5
+  horizontalSpeed: 2.5
+  verticalSpeed: 0
+  gravity: 0
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.1305262, w: 0.9914449}
+  qDown: {x: 0, y: 0, z: 0.25881913, w: -0.9659258}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.VORALAZ
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 0
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 3
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.6
+      value: 0.051000003
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.7
+      value: 0.153
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 2
+  tailTime: 0.35
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 0e87cb6c2fed51844849bbf6fce7b385, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 27ee55f26a32e874bb6a31545d1e62bc, type: 2}
+  skinShiny: {fileID: 11400000, guid: 9b7bd6ea0d53db742ba31288f8467889, type: 2}
+  skinMastery: {fileID: 11400000, guid: 48f97f719afe9fc4f907d79bc6cd1a46, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: ad44bc1caa54b6344aa6cc4e2dedd417, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: dda0a73deb823514f85c158dffc662cf, type: 2}
+  - {fileID: 11400000, guid: 17c749d1ba72ea34592f347b6834f50c, type: 2}

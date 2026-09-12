@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd5e18f0dd3a7e8c3de8fbc09e1d6d7, type: 3}
+  m_Name: Chest_ChristmasPresent
+  m_EditorClassIdentifier:
+  id: 5
+  name: Christmas Present
+  chance: 5
+  crowns: {x: 1, y: 6}
+  randomEggChance: 20
+  sprite: {fileID: 21300000, guid: 7eda3da42146a9a43aa466ae5f7665cd, type: 2}
+  explosionAudioClips:
+  - {fileID: 11400000, guid: 6e9b02b7cb631564faaf70f4c147186d, type: 2}
+  hasExtraRunes: 0
+  brokenChestParticles: {fileID: 11400000, guid: f86dcb7d8b109e94cac547ffd99fee80, type: 2}
+  brokenChestParticlesInSpace: {fileID: 11400000, guid: c8558586e9ef11240a4f218d384528aa, type: 2}

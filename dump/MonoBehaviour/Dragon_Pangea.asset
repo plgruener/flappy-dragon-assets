@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Pangea
+  m_EditorClassIdentifier:
+  id: 57
+  name: Pangea
+  type: 4
+  rarity: 5
+  controlType: 0
+  horizontalSpeed: 2.9125
+  verticalSpeed: 5.064985
+  gravity: 13
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.25881904, w: 0.9659258}
+  qDown: {x: 0, y: 0, z: 0.70710677, w: -0.70710677}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.PANGEA
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 1
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: 0.2, z: 0}
+  tailType: 5
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.17
+      value: 0.23375
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.172
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.34
+      value: 0.2125
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.342
+      value: 0.14875
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.51
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.512
+      value: 0.10625
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.68
+      value: 0.1275
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.682
+      value: 0.06375
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.85
+      value: 0.085
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.852
+      value: 0.0425
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 3
+  tailTime: 0.39375
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: a0f43ffe2bd7f31499403f22bc06ba3e, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: c2bc3e1ee248f1c438435ccedb27edcb, type: 2}
+  skinShiny: {fileID: 11400000, guid: 62fc6babe15076e48bfe77d879a92142, type: 2}
+  skinMastery: {fileID: 11400000, guid: 73909e81d6e4efc4da4f9f02a2a266c0, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: 0d17305d1239c174995f1162ae322713, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 368c4212e23d4464a9cda7af94be7ce4, type: 2}
+  - {fileID: 11400000, guid: 88044d2a3e1ca78439a9c0e374c62484, type: 2}

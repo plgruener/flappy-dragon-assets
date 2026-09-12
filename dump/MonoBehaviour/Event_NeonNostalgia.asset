@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5998037cced569a833790bc2a66a3ee5, type: 3}
+  m_Name: Event_NeonNostalgia
+  m_EditorClassIdentifier:
+  id: 5
+  nameKey: D_EVENT.NEON_NOSTALGIA.NAME
+  mainWorld: {fileID: 11400000, guid: a0cbe9119971e8242a581ebb05020b8f, type: 2}
+  mainTheme: {fileID: 11400000, guid: d4771115287f52847bf28fa73e91227f, type: 2}
+  egg: {fileID: 11400000, guid: 199e807a5c25d5246af2ae7fcc2be9e7, type: 2}

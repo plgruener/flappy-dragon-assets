@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f98bc325d1cbfd5ab66680485ff485, type: 3}
+  m_Name: WokuraMemory_Wokaze
+  m_EditorClassIdentifier:
+  Type: 0
+  Material: {fileID: 2100000, guid: 7e9deeb3fe9debf49bfc63087ead5cbe, type: 2}
+  ShinyMaterial: {fileID: 2100000, guid: e9d3f0398c229cc4a9c994d6113f6590, type: 2}
+  MasteryMaterial: {fileID: 2100000, guid: 7b7a45ad6da9b7f47985ff9ed82a7e98, type: 2}
+  PrismaticMaterial: {fileID: 2100000, guid: a88d88d91ac0b684ba78116b83cf437a, type: 2}
+  Sprite: {fileID: 21300000, guid: 46cc5b7a66f1f0245966c0d0b177867e, type: 2}
+  MinRadius: 2
+  MaxRadius: 6
+  Amplitude: 0
+  Frequency: 0
+  AngularFrequency: 0
+  MovementSpeed: 2
+  TimeToLive: 30
+  SkillCooldown: 24
+  SkillDuration: 12
+  MemoryName: Wokaze

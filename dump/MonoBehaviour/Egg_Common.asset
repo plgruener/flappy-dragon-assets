@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Common
+  m_EditorClassIdentifier:
+  id: 1
+  name: Common Egg
+  incubationTime: 1
+  shopIcon: {fileID: 21300000, guid: 485375083b700514092072bc5456fb8d, type: 2}
+  rarityPool: 0
+  typePool: 7
+  customDragonPool: []
+  nameKey: S_EGG_OBTAINED.EGG_COMMON
+  descriptionKey: D_EGG.COMMON.DESCRIPTION
+  cameraBackgroundColor: {r: 0.7607843, g: 0.8156863, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.47843137, g: 0.8901961, b: 0.99215686, a: 1}
+  particleColor: {r: 0.3254902, g: 0.8117647, b: 0.56078434, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 0
+  subtypeId: 0
+  material: {fileID: 2100000, guid: 927f898f3b2e2da45b69a17c87d63d98, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

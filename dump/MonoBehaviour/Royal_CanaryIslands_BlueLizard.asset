@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_CanaryIslands_BlueLizard
+  m_EditorClassIdentifier:
+  id: 22
+  name: Blue Lizard
+  idle: {fileID: 21300000, guid: 52da1fd75c1afec40a211b1e74bf5af6, type: 2}
+  idle2: {fileID: 21300000, guid: a08aca88ea1a7654f9e174833b03f2fd, type: 2}
+  deathParticles: {fileID: 11400000, guid: 33eb4ed5e923073428813e3415d01bde, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.19125, y: 0.19125, z: 0.19125}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 1
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: ebbb31b10b3219a47a165e050655e159, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 0, y: -6, z: 0}
+  worldmapScaleOffset: {x: 1, y: 1, z: 1}

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Wyvern
+  m_EditorClassIdentifier:
+  id: 37
+  name: Wyvern Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 211aed715ab4f354fb69f7710cf7516d, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: ecbb929697f82de468e0209a191353d7, type: 2}
+  - {fileID: 11400000, guid: 16aa31ef5c639734484d383b7946862b, type: 2}
+  - {fileID: 11400000, guid: ccf52ea8eabb60b48a016fdbe16a1d82, type: 2}
+  - {fileID: 11400000, guid: 657f40f9de8114e49a39afb3f80fa680, type: 2}
+  - {fileID: 11400000, guid: 5d8c816474c7f074f93295517fdc5ac6, type: 2}
+  - {fileID: 11400000, guid: 9f0bdd4aa4756a94e9a54ed040c9b310, type: 2}
+  - {fileID: 11400000, guid: 4ad677e813c582043b6d9878081923aa, type: 2}
+  - {fileID: 11400000, guid: 29ce0c093add0d74a93c2184a2e467f5, type: 2}
+  - {fileID: 11400000, guid: 7a326e56602f2f3498b09dd2337d1d23, type: 2}
+  - {fileID: 11400000, guid: c936b3dc396f13742aa62f67a732c5ae, type: 2}
+  - {fileID: 11400000, guid: 5d1de0c3321744d479958f60dfcc5f33, type: 2}
+  - {fileID: 11400000, guid: efb3ab91b35f7fd428da0522d63010d8, type: 2}
+  - {fileID: 11400000, guid: 09c6d21a2331ada4dbf09709a69ce005, type: 2}
+  nameKey: D_EGG.WYVERN.NAME
+  descriptionKey: D_EGG.WYVERN.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.66809404, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.6392157, b: 0.47843137, a: 1}
+  particleColor: {r: 0.8117647, g: 0.58920795, b: 0.32549018, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 3
+  material: {fileID: 2100000, guid: 7f6d07596dd216546b80187f750622fe, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

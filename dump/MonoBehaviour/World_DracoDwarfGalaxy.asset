@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_DracoDwarfGalaxy
+  m_EditorClassIdentifier:
+  id: 11
+  name: Draco Dwarf Galaxy
+  portrait: {fileID: 21300000, guid: 980c02a308f048f41a4e42a6f5c3925e, type: 2}
+  themes:
+  - {fileID: 11400000, guid: d2ab809c44bfa4c45bba4cd7eddf0b92, type: 2}
+  - {fileID: 11400000, guid: 67f69c4b4a163a243ab517076e055117, type: 2}
+  - {fileID: 11400000, guid: 49ef3e9f53afe6747b6c0a06db5a8caf, type: 2}
+  - {fileID: 11400000, guid: d2dbd0e238c538b45b46712896884ba8, type: 2}
+  - {fileID: 11400000, guid: 9750942d8cd5972428b85346b5e980e6, type: 2}
+  - {fileID: 11400000, guid: 6501f122eb2f4dd4b9fe4444f6eb1424, type: 2}
+  - {fileID: 11400000, guid: e4e316f5a7ec206458e0dfcba3d70ea3, type: 2}
+  royals:
+  - {fileID: 11400000, guid: d5050611fde88354c8cf78dae276f3c6, type: 2}
+  - {fileID: 11400000, guid: 9e616fd6180c4ae4295f650f14eb8d78, type: 2}
+  - {fileID: 11400000, guid: bbd44cb14e60ec246aa076a14b5d6d5f, type: 2}
+  - {fileID: 11400000, guid: b3a522c23b974dc4fb2b87bcde968790, type: 2}
+  - {fileID: 11400000, guid: 7f62d2c897e712246aeb6eebed6910eb, type: 2}
+  - {fileID: 11400000, guid: 4d73d7c9e2bb7214b8f86748b42a385d, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: a2a8d38c41a96c54db2f37e97d3bdabc, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: a2a8d38c41a96c54db2f37e97d3bdabc, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 40c88f0c081b1694692a3bf4a63552a8, type: 2}
+  audioClip: {fileID: 11400000, guid: 92879caf635667445ad3d10584ee28e4, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.DRACO_DWARF_GALAXY.NAME
+  localizedDescriptionKey: D_WORLD.DRACO_DWARF_GALAXY.DESCRIPTION

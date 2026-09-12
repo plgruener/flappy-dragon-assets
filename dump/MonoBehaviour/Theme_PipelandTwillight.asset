@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_PipelandTwillight
+  m_EditorClassIdentifier:
+  worldId: 1
+  id: 9
+  name: Pipeland Twillight
+  portrait: {fileID: 21300000, guid: 3c30d1eb67884314f9af40bb00ce9a53, type: 2}
+  isNight: 0
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0.5
+  windForce: 0.25
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 1, g: 0.8066038, b: 0.8803997, a: 1}
+  skyMaterial: {fileID: 2100000, guid: 3a579fb8726b2ae409582abf96b11026, type: 2}
+  cloudColor: {r: 1, g: 0.8066038, b: 0.8803997, a: 1}
+  environment: {fileID: 1709254077376921, guid: e9b8d5899a0308540a19d31568b22b3f, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.87058824, g: 0.79607844, b: 1, a: 1}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

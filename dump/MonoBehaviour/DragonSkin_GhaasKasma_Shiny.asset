@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a3225d4c345cd62d313f11ae98cd84, type: 3}
+  m_Name: DragonSkin_GhaasKasma_Shiny
+  m_EditorClassIdentifier:
+  dragonUp: {fileID: 21300000, guid: a9f1e4dbdf752634bbe113006d120ffc, type: 2}
+  dragonDown: {fileID: 21300000, guid: a9f1e4dbdf752634bbe113006d120ffc, type: 2}
+  tailColor:
+    serializedVersion: 2
+    key0: {r: 0.4901961, g: 0.80392164, b: 0.7960785, a: 1}
+    key1: {r: 0.4901961, g: 0.80392164, b: 0.7960785, a: 1}
+    key2: {r: 0.6666667, g: 0.7490196, b: 0.8117648, a: 0.5019608}
+    key3: {r: 0.6666667, g: 0.7490196, b: 0.8117648, a: 0}
+    key4: {r: 0.6666667, g: 0.7490196, b: 0.8117648, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 65535
+    ctime3: 65535
+    ctime4: 65535
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 5012
+    atime2: 22937
+    atime3: 65535
+    atime4: 65535
+    atime5: 65535
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 4
+  primaryColor: {r: 0.9333334, g: 0.909804, b: 1, a: 1}
+  skillColor: {r: 0, g: 0, b: 0, a: 0}
+  dragonMaterial: {fileID: 2100000, guid: 07b18424fb6360d478f8ce5b89c768d7, type: 2}
+  tailMaterial: {fileID: 2100000, guid: 443d967a6594cf44492f430665c0f78f, type: 2}
+  maskedMaterial: {fileID: 2100000, guid: b0b78f64bbbb3664db03b77a91d48f32, type: 2}

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_MeanderSanctuary
+  m_EditorClassIdentifier:
+  id: 23
+  name: Meander Sanctuary
+  portrait: {fileID: 21300000, guid: 3d5a2d04ad183f04ab2bcbe2a50ca3e9, type: 2}
+  themes:
+  - {fileID: 11400000, guid: 448a6602c4a81784394c6cd6c53e07ab, type: 2}
+  - {fileID: 11400000, guid: d97413623b297b84aa24554ece5df826, type: 2}
+  - {fileID: 11400000, guid: 079e723a69a2ba24192812a712766041, type: 2}
+  - {fileID: 11400000, guid: 7d9056685a537054c96ab63f06f0b5da, type: 2}
+  - {fileID: 11400000, guid: 734be1092c443904a9cbcf3d88c25601, type: 2}
+  - {fileID: 11400000, guid: d9a7ece7d4f89774fb64be0ab80849f3, type: 2}
+  - {fileID: 11400000, guid: dfeca42b7d214a44889d047b2d1d4caf, type: 2}
+  - {fileID: 11400000, guid: 5bdbf8ca655cf7940a0e45f7edbf0abc, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 7d3af467fd422c0439875b9755d8119b, type: 2}
+  - {fileID: 11400000, guid: 338e6560bbb6c924d8f438bddf6bf375, type: 2}
+  - {fileID: 11400000, guid: 7eed798324972334aa5d8af2ae41bf24, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: aa89b8d7eb6bc1a40920f1e4cd6f28f7, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: d74478544db0fcd45865df2091999cdd, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 5
+      inSlope: -1.3099726
+      outSlope: -1.3099726
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.048611104
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 7c0090411767e3649ac429c36b7f1907, type: 2}
+  audioClip: {fileID: 11400000, guid: 78ce4b8b5c0419846981e1dd33d0023d, type: 2}
+  hasWater: 1
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.MEANDER_SANCTUARY.NAME
+  localizedDescriptionKey: D_WORLD.MEANDER_SANCTUARY.DESCRIPTION

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Pyrotechnic
+  m_EditorClassIdentifier:
+  id: 22
+  name: Pyrotechnic egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 2a39dbd3a4b5b70458315a1d35eace98, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 74dbcd7ce91b6e44a95cbddfdeb7be7a, type: 2}
+  - {fileID: 11400000, guid: efb3ab91b35f7fd428da0522d63010d8, type: 2}
+  - {fileID: 11400000, guid: 1997133f8f2427e4ea5f70fffe4fd01a, type: 2}
+  - {fileID: 11400000, guid: 62adf44a049861948ae7ecc99eabe439, type: 2}
+  - {fileID: 11400000, guid: 13312febb0a8eb64ca6f38623dd5f455, type: 2}
+  - {fileID: 11400000, guid: 85316ede9f833cf4dac690b83280b72b, type: 2}
+  - {fileID: 11400000, guid: a936554842f82c2439c88c7b612a5787, type: 2}
+  - {fileID: 11400000, guid: 5806d4be40947064c817eb9ee5582467, type: 2}
+  - {fileID: 11400000, guid: 503cf8c8df4f6564782930e9bcee1e2b, type: 2}
+  - {fileID: 11400000, guid: 1e5439522b458e54c92ee7ea28192e3e, type: 2}
+  - {fileID: 11400000, guid: f1493847a5afbf64a973ad0120d78867, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_PYROTECHNIC
+  descriptionKey: D_EGG.PYROTECHNIC.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.54052794, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.47843137, b: 0.49237737, a: 1}
+  particleColor: {r: 0.8117647, g: 0.32549018, b: 0.3635061, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 0
+  material: {fileID: 2100000, guid: fb48b4b7ffd3dd44aaf2166300b7dcf3, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Noxenu
+  m_EditorClassIdentifier:
+  id: 190
+  name: Noxenu
+  type: 2
+  rarity: 0
+  controlType: 0
+  horizontalSpeed: 3.1903663
+  verticalSpeed: 5.225259
+  gravity: 10.142017
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.25881904, w: 0.9659258}
+  qDown: {x: 0, y: 0, z: 0.25881913, w: -0.9659258}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.NOXENU
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 1
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 10
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.4
+      value: 0.34
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 1
+  tailTime: 0.30625
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: d16515852e08c0c43aaed345903ddbe9, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 7ebd11b27b9e09c48939453f3af8986f, type: 2}
+  skinShiny: {fileID: 11400000, guid: 85afcbff6c1225f4a9a8e732409dc3db, type: 2}
+  skinMastery: {fileID: 11400000, guid: cd9f0c7f162760f43aa4650bea3a97f1, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: 33c6ab56a0739b34c9b8016cc161fb75, type: 2}
+  usesDragonHeart: 1
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 1
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: af1ea8eaaa198384dabd273efe72cb6d, type: 2}
+  - {fileID: 11400000, guid: af78e5fba195fe148bbeb94316160cd1, type: 2}
+  - {fileID: 11400000, guid: d12cac1b3cc3b5241b092d2a1e3c3702, type: 2}
+  - {fileID: 11400000, guid: 1f428a453041eb54da48b659f9b0a940, type: 2}
+  - {fileID: 11400000, guid: d0a62e5582549064ab07c4e9d4568ca1, type: 2}

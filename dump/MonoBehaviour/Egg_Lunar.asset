@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Lunar
+  m_EditorClassIdentifier:
+  id: 54
+  name: Lunar Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 5cdfb49fc63ddfe44b8b423c92271317, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: dabf4095156b2ad438ea451a2a4746ba, type: 2}
+  - {fileID: 11400000, guid: bde2bdc04a8f54046977bc2f44bdf9bf, type: 2}
+  - {fileID: 11400000, guid: 77ab80cf95cc49f429a223a32e720cb7, type: 2}
+  - {fileID: 11400000, guid: 9665c233a361fbb4caded327d536b2fa, type: 2}
+  nameKey: D_EGG.LUNAR.NAME
+  descriptionKey: D_EGG.LUNAR.DESCRIPTION
+  cameraBackgroundColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 1}
+  outerBackgroundColor: {r: 0.8941177, g: 0.8980393, b: 0.8470589, a: 1}
+  particleColor: {r: 0.6039216, g: 0.6039216, b: 0.6039216, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 22
+  material: {fileID: 2100000, guid: e85cbc183a150c846b4ead41ba7707b6, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

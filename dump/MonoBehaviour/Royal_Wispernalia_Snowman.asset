@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_Wispernalia_Snowman
+  m_EditorClassIdentifier:
+  id: 45
+  name: Snowman
+  idle: {fileID: 21300000, guid: 3b16f9a324c33ce438a0f88189c8f539, type: 2}
+  idle2: {fileID: 21300000, guid: ecaa386a99eab2640b954a26087a537a, type: 2}
+  deathParticles: {fileID: 11400000, guid: 4f995d031dd9b844594e6bc81bdcf4cf, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.2390625, y: 0.2390625, z: 0.2390625}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 2.4}
+  canSleep: 0
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: 40d96bc5fc6f33042baa4a73a89638f6, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: -1.5, y: -32, z: 0}
+  worldmapScaleOffset: {x: 1, y: 2, z: 1}

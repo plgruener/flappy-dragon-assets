@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5998037cced569a833790bc2a66a3ee5, type: 3}
+  m_Name: Event_FloralBloom
+  m_EditorClassIdentifier:
+  id: 3
+  nameKey: D_EVENT.FLORAL_BLOOM.NAME
+  mainWorld: {fileID: 11400000, guid: 3a3becd22c0c5ee4fb159f7cefdf6d8d, type: 2}
+  mainTheme: {fileID: 11400000, guid: 388f099052c6432409bf325218e5053c, type: 2}
+  egg: {fileID: 11400000, guid: 8b33d0c5303af364cae7b639a20b6f88, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40dc321a9f7c825638788a196574a234, type: 3}
+  m_Name: DimensionalAugment_SolarRay
+  m_EditorClassIdentifier:
+  id: 15
+  name: Solar Ray
+  description: Get a solar ray (up to 4) from mystery eggs.
+  isStackable: 0
+  localizedNameKey: D_DIMENSIONAL_AUGMENT.SOLAR_RAY.NAME
+  localizedDescriptionKey: D_DIMENSIONAL_AUGMENT.SOLAR_RAY.DESCRIPTION
+  hasPrimaryValueModifiers: 0
+  prefixValuePrimary:
+  suffixValuePrimary:
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  valuePrimary: 4
+  valueSecondary: 0
+  icon: {fileID: 21300000, guid: f448c2fd517782543aeb205d1209c809, type: 2}
+  prefab: {fileID: 1709254077376921, guid: 018ea86112498c24fb6f5461a02e7ee4, type: 2}

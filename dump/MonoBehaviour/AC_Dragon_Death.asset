@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Dragon_Death
+  m_EditorClassIdentifier:
+  name: DragonDeath
+  clipReferences:
+  - m_AssetGUID: 0782cbd7fb53af446940a820f3c54d7b
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 6c5acf4759642aa47820771f0ded7315
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 8e184fac6c346284c82ef25c8884fafe
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: a3b1d3f20fac8ca4097f16b26481500e
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 206e760df6cccaf4fb7ca0eb96b1c43f
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 8af24cd88aedce2438540e57e24cdaad
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 399b1d253024d1a47b0eface676990b4
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 48d7abc4a35f67f4284430c53f357be6
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 3445d75a735f7654fb3eaa72c299e241
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 6e6d2a96a6647d0499111a45eb2fe74a
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 5
+  BPM: 0

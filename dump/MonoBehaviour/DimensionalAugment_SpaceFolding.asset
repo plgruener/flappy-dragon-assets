@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40dc321a9f7c825638788a196574a234, type: 3}
+  m_Name: DimensionalAugment_SpaceFolding
+  m_EditorClassIdentifier:
+  id: 32
+  name: Space Folding
+  description: Squash your size by 75%
+  isStackable: 0
+  localizedNameKey: D_DIMENSIONAL_AUGMENT.SPACE_FOLDING.NAME
+  localizedDescriptionKey: D_DIMENSIONAL_AUGMENT.SPACE_FOLDING.DESCRIPTION
+  hasPrimaryValueModifiers: 1
+  prefixValuePrimary:
+  suffixValuePrimary: '%'
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  valuePrimary: 75
+  valueSecondary: 0
+  icon: {fileID: 21300000, guid: ab0a568efba782b48949fe8ce7b3352c, type: 2}
+  prefab: {fileID: 0}

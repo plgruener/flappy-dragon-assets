@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb30f403fd858219f3476f5eea6dc837, type: 3}
+  m_Name: Skill_BloodFrenzy
+  m_EditorClassIdentifier:
+  id: 25
+  name: Indigestion
+  description: '<b>(PrimaryValue)%</b> of getting a Dragon Chilli with reduced duration after eating a Royal'
+  localizedName:
+    mTerm: D_ABILITY.INDIGESTION_NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_ABILITY.INDIGESTION_DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  hasPrimaryValueModifiers: 1
+  prefixValuePrimary:
+  suffixValuePrimary: '%'
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  minValuePrimary: 10
+  maxValuePrimary: 100
+  minValueSecondary: 2
+  maxValueSecondary: 2
+  isActive: 0
+  minValueCooldown: 30
+  maxValueCooldown: 12
+  activateCondition: 8
+  icon: {fileID: 21300000, guid: 1bc668e5590dc9e45a15ba650bcea9ca, type: 2}
+  prefab: {fileID: 0}
+  isProgrammed: 1
+  increaseRoyalAppearenceChance: 0
+  increaseChestAppearenceChance: 0
+  increaseEggAppearenceChance: 0
+  increasePowerUpAppearenceChance: 0
+  increasePortalAppearenceChance: 0
+  increaseStellarDonutAppearenceChance: 0

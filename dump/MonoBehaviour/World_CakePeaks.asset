@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_CakePeaks
+  m_EditorClassIdentifier:
+  id: 16
+  name: Cake Peaks
+  portrait: {fileID: 21300000, guid: 319dcd486085e264abc6e54d317f22fc, type: 2}
+  themes:
+  - {fileID: 11400000, guid: 8a32a9bef998ba94c825440e18451296, type: 2}
+  - {fileID: 11400000, guid: 2dc03a1840f549747a885d9b8d5991e4, type: 2}
+  - {fileID: 11400000, guid: 29237b0a77fa4744b84cac184805de7c, type: 2}
+  - {fileID: 11400000, guid: 9323917038f09254d81f34b1062bcca6, type: 2}
+  - {fileID: 11400000, guid: 48472c15361d85448a670852c190ce8e, type: 2}
+  - {fileID: 11400000, guid: 50d8189947be12d4caaba2c5f1a7b22f, type: 2}
+  - {fileID: 11400000, guid: ed4bb4c0486654f4184156ac1d70f755, type: 2}
+  - {fileID: 11400000, guid: 7aca76dad600110409cad6935e0fc476, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 83f4dd70f05347b4e8378925261e90c2, type: 2}
+  - {fileID: 11400000, guid: 41d7369ba195ae543aaff08a2f316399, type: 2}
+  - {fileID: 11400000, guid: 1941dc26d503ee04cba90ce76ffa6ed1, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: 63b4039ac26f2ff4eb02f72508956609, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: 63b4039ac26f2ff4eb02f72508956609, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 8
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 7a35e9f8ec6488340aed74d61deefc98, type: 2}
+  audioClip: {fileID: 11400000, guid: da097987655b5d547b422e212ece8621, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.CAKE_PEAKS.NAME
+  localizedDescriptionKey: D_WORLD.CAKE_PEAKS.DESCRIPTION

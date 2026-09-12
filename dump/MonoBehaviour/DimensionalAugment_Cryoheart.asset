@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40dc321a9f7c825638788a196574a234, type: 3}
+  m_Name: DimensionalAugment_Cryoheart
+  m_EditorClassIdentifier:
+  id: 19
+  name: Cryoheart
+  description: Dragon hearts slows you down by 10% each
+  isStackable: 0
+  localizedNameKey: D_DIMENSIONAL_AUGMENT.CRYOHEART.NAME
+  localizedDescriptionKey: D_DIMENSIONAL_AUGMENT.CRYOHEART.DESCRIPTION
+  hasPrimaryValueModifiers: 1
+  prefixValuePrimary:
+  suffixValuePrimary: '%'
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  valuePrimary: 10
+  valueSecondary: 0
+  icon: {fileID: 21300000, guid: 90d604cbc7a3d954d8baabb2bf236d49, type: 2}
+  prefab: {fileID: 0}

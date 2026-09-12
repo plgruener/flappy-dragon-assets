@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_RonokaMountainsSunset
+  m_EditorClassIdentifier:
+  worldId: 0
+  id: 2
+  name: Ronoka Mountains Sunset
+  portrait: {fileID: 21300000, guid: 9ff80f2685097254ba5f0ae3e70ef63f, type: 2}
+  isNight: 0
+  hasStars: 0
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0.75
+  windForce: 0.25
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 1, g: 0.80784315, b: 0.8095181, a: 1}
+  skyMaterial: {fileID: 2100000, guid: 8fddd03fee1eb6147b1023383f6b8004, type: 2}
+  cloudColor: {r: 1, g: 0.80784315, b: 0.8095181, a: 1}
+  environment: {fileID: 1709254077376921, guid: 8fa7f0f46ca1a8240b0b9480901a9b28, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 0
+  starsColor: {r: 0, g: 0, b: 0, a: 0}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

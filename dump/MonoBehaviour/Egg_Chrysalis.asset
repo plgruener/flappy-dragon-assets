@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Chrysalis
+  m_EditorClassIdentifier:
+  id: 15
+  name: Chrysalis Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 08b204d731e659742bc2b7e8b1f7e8f9, type: 2}
+  rarityPool: 6
+  typePool: 5
+  customDragonPool:
+  - {fileID: 11400000, guid: 26aead8f9859284468e151d73f828aa1, type: 2}
+  - {fileID: 11400000, guid: d4a9edf4a329f224a978f661044ff695, type: 2}
+  - {fileID: 11400000, guid: 5ead080e1116369469e2aaec52ff4cce, type: 2}
+  - {fileID: 11400000, guid: dc2bd1810cb187d418af08475b461c05, type: 2}
+  - {fileID: 11400000, guid: 87b4f089aa5ba764895461e094f84ebf, type: 2}
+  - {fileID: 11400000, guid: f3abb3349f88f7544a7bbae4a8b8a31f, type: 2}
+  - {fileID: 11400000, guid: 8d2d0ca8267d9da49893af63a51db510, type: 2}
+  - {fileID: 11400000, guid: 4044f4bd5d36f2548bb2d015c22856e0, type: 2}
+  - {fileID: 11400000, guid: 625c84ab1306f204a942ea181389ab35, type: 2}
+  - {fileID: 11400000, guid: d9fd1e7b07c5ce84d89238622a571617, type: 2}
+  - {fileID: 11400000, guid: 826d092665faa72488813b8bd1b50e30, type: 2}
+  - {fileID: 11400000, guid: 69f9bf483327e8b4aaa8fc63218d8069, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_CHRYSALIS
+  descriptionKey: D_EGG.CHRYSALIS.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.66809404, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.6392157, b: 0.47843137, a: 1}
+  particleColor: {r: 0.7830189, g: 0.57984537, b: 0.4321378, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 15
+  material: {fileID: 2100000, guid: f37421edab84da04282bf784e7074d9c, type: 2}
+  eggScale: {x: 0.9, y: 1, z: 0.9}
+  eggRotation: {x: 0, y: 90, z: 0}

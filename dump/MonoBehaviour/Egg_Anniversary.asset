@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Anniversary
+  m_EditorClassIdentifier:
+  id: 21
+  name: Anniversary Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: b12f3a2bd69fa3543a5e0bd122df20f7, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 5f094220f82c61e40bcfb23f1475e727, type: 2}
+  - {fileID: 11400000, guid: 7b8960003a0666748b3b151af4ff637d, type: 2}
+  - {fileID: 11400000, guid: 53a33b40d9f1ff144a5405e06da06c26, type: 2}
+  - {fileID: 11400000, guid: c53fad6edd26a5849b93f7f9c5a24e23, type: 2}
+  - {fileID: 11400000, guid: 7eb964e480214ab4586585f40a2c008a, type: 2}
+  - {fileID: 11400000, guid: dd402232dc7ac314c889781d08c2b66f, type: 2}
+  - {fileID: 11400000, guid: c4d113a2380497f4986f0c0e5f5fe9b1, type: 2}
+  - {fileID: 11400000, guid: 09c6d21a2331ada4dbf09709a69ce005, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_ANNIVERSARY
+  descriptionKey: D_EGG.ANNIVERSARY.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.66809404, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.99215686, g: 0.6392157, b: 0.47843137, a: 1}
+  particleColor: {r: 0.8117647, g: 0.58920795, b: 0.32549018, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 10
+  material: {fileID: 2100000, guid: d15db7e842d358842a7c562b9c779e12, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: -80, z: 0}

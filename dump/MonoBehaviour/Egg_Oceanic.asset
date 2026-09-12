@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Oceanic
+  m_EditorClassIdentifier:
+  id: 41
+  name: Oceanic Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 61e95baaf4534d847ab4a6c83d466591, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 2d7052c8c23caa1459865b426ca387ef, type: 2}
+  - {fileID: 11400000, guid: 4f768dab778614942abee25a04366bff, type: 2}
+  - {fileID: 11400000, guid: 66d674b6921ae7945b75f8a3b8208ddf, type: 2}
+  - {fileID: 11400000, guid: 2a8b340ed71653545aff6fbd78c337c0, type: 2}
+  - {fileID: 11400000, guid: e272243cdf007c545a86676c27286b19, type: 2}
+  - {fileID: 11400000, guid: bcdde28d25cc8fc41bd3b8f6f5b6a769, type: 2}
+  - {fileID: 11400000, guid: 06ab2485e8bfab64f8616f19efbaae5c, type: 2}
+  - {fileID: 11400000, guid: bd1abc0e5c773914f9013ce3ebe0cacb, type: 2}
+  - {fileID: 11400000, guid: 24e004a75164f924badf8238e13178d1, type: 2}
+  - {fileID: 11400000, guid: 7e1b5148247d25d41abd72daebb52fd3, type: 2}
+  - {fileID: 11400000, guid: d289b8be6e68bd74bb6bfd0ac1f3c82b, type: 2}
+  - {fileID: 11400000, guid: eb392b46861d44f4eb60894a54c9b134, type: 2}
+  - {fileID: 11400000, guid: fadb580650e6fc14484fb527b71ef48b, type: 2}
+  - {fileID: 11400000, guid: 503cf8c8df4f6564782930e9bcee1e2b, type: 2}
+  - {fileID: 11400000, guid: f5a6496db1f37b04385dbabec95a932c, type: 2}
+  - {fileID: 11400000, guid: 1e4c41012d16274419a78398bd329459, type: 2}
+  - {fileID: 11400000, guid: f32a89dae6fa1204f9ae01a4d6eb6050, type: 2}
+  nameKey: D_EGG.OCEANIC.NAME
+  descriptionKey: D_EGG.OCEANIC.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.7921569, a: 1}
+  outerBackgroundColor: {r: 0.48235294, g: 0.47843137, b: 0.99215686, a: 1}
+  particleColor: {r: 0.37254903, g: 0.7353719, b: 0.85882354, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 6
+  material: {fileID: 2100000, guid: d7affd6dfe8818f469895222ccc1953e, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

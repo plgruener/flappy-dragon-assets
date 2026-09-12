@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb30f403fd858219f3476f5eea6dc837, type: 3}
+  m_Name: Skill_WillOfTheWisps
+  m_EditorClassIdentifier:
+  id: 120
+  name: Will of the wisps
+  description: 10-100% of getting a soul (up to 3) after devouring an aristocrat. Consume a soul to keep on living after getting hit.
+  localizedName:
+    mTerm: D_ABILITY.WILL_OF_THE_WISPS.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_ABILITY.WILL_OF_THE_WISPS.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  hasPrimaryValueModifiers: 1
+  prefixValuePrimary:
+  suffixValuePrimary: '%'
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary: '%'
+  minValuePrimary: 10
+  maxValuePrimary: 100
+  minValueSecondary: 0
+  maxValueSecondary: 0
+  isActive: 0
+  minValueCooldown: 30
+  maxValueCooldown: 12
+  activateCondition: 128
+  icon: {fileID: 21300000, guid: 2d5c0a0a0edc2e14da485d0639d5733a, type: 2}
+  prefab: {fileID: 0}
+  isProgrammed: 1
+  increaseRoyalAppearenceChance: 0
+  increaseChestAppearenceChance: 0
+  increaseEggAppearenceChance: 0
+  increasePowerUpAppearenceChance: 0
+  increasePortalAppearenceChance: 0
+  increaseStellarDonutAppearenceChance: 0

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd2f74dbd62d2158fc89a47b3bf6285b, type: 3}
+  m_Name: DracoDwarfGalaxyPlanetColors_Planets
+  m_EditorClassIdentifier:
+  sprites:
+  - {fileID: 21300000, guid: 64cb680eb79cd7548b3110f809ce8284, type: 2}
+  - {fileID: 21300000, guid: a8f2760ab1f42854994029d50e0197c9, type: 2}
+  - {fileID: 21300000, guid: bcc27ea9467b0c94192e1cafc10b26b3, type: 2}
+  - {fileID: 21300000, guid: 9a8e70d304ed5ee42ab027b39c0e69e9, type: 2}
+  - {fileID: 21300000, guid: 5e3786098f9f66743ac4616bbf376116, type: 2}
+  - {fileID: 21300000, guid: e4f4413b89f91bb419bcc46d7517c991, type: 2}
+  - {fileID: 21300000, guid: f720aa37e9255d64ba977e131c880509, type: 2}
+  - {fileID: 21300000, guid: 58a63b1fc7424434f8046dc1355165a5, type: 2}
+  - {fileID: 21300000, guid: 74b127d14dfe36848ad47c6e51458398, type: 2}
+  - {fileID: 21300000, guid: 4273daa3f6308274e983279ab6e78883, type: 2}
+  - {fileID: 21300000, guid: c48c0b2f8cf013c48bcc8076878f6597, type: 2}
+  - {fileID: 21300000, guid: bb4a2349e610a9b4cbb598bb471ce2f0, type: 2}
+  - {fileID: 21300000, guid: 51aa62a1c4fc5d1458b6e48e36806db5, type: 2}
+  - {fileID: 21300000, guid: 0fd30f0934e07cb408deae63a4c4fa50, type: 2}
+  - {fileID: 21300000, guid: 5d49d8d004340994eb7369413ed39458, type: 2}
+  - {fileID: 21300000, guid: 2caba8ebbde6b754db38fbd858e5779e, type: 2}
+  - {fileID: 21300000, guid: bca6fde2ed5f2654589574413e5cf296, type: 2}
+  - {fileID: 21300000, guid: 78b4cce505250b04991a5cf9952f637c, type: 2}
+  - {fileID: 21300000, guid: 6aeb8e71967e2e94db116f7fefdbcc2b, type: 2}
+  - {fileID: 21300000, guid: e2476af63980ca94994cb77d4c69122b, type: 2}
+  - {fileID: 21300000, guid: 1008b8896482c664ca2bf72dad79a514, type: 2}
+  - {fileID: 21300000, guid: 89ba67397921ed04bba201ac80245a2d, type: 2}
+  colors:
+  - {r: 1, g: 1, b: 1, a: 1}

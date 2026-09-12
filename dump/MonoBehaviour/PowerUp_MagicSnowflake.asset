@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36d6096f57b841f8fb6fc99a4b0d191, type: 3}
+  m_Name: PowerUp_MagicSnowflake
+  m_EditorClassIdentifier:
+  id: 11
+  name: Magic Snowflake
+  description: Halve your speed while under the effect of this powerup.
+  chance: 100
+  sprite: {fileID: 21300000, guid: e10855b748bf7ed4aaabcb06352bf0af, type: 2}
+  primaryColor: {r: 0.50980395, g: 0.80392164, b: 0.9215687, a: 1}
+  secondaryColor: {r: 0.72156864, g: 0.9215687, b: 0.9960785, a: 1}
+  dramaticBackgroundColor: {r: 0, g: 0.083862305, b: 0.101960786, a: 0.5019608}
+  isActive: 1
+  isPassive: 0
+  duration: 8
+  radius: 0
+  power: 0
+  ticks: 0
+  newCameraOrthographicSize: 0
+  newTimeScale: 0
+  givesExtraLife: 0
+  givesExtraShield: 0
+  powerUpPickUpSound: {fileID: 0}
+  powerUpActiveSound: {fileID: 0}
+  powerUpDestroySound: {fileID: 0}
+  powerUpPickupParticles: {fileID: 11400000, guid: a82f8559c2b3ac04a9f0edfa9c8bfde9, type: 2}
+  localizedName:
+    mTerm: D_POWERUP.MAGIC_SNOWFLAKE.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_POWERUP.MAGIC_SNOWFLAKE.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  affectsControllerSpeed: 1
+  storedPowerupSprite: {fileID: 21300000, guid: f1a96f4b7cfe6ad4cbf4a7c5db1eb440, type: 2}
+  storedPowerupScaleMultiplier: 1
+  powerupDonutSprite: {fileID: 21300000, guid: 3dd7d89fbfb87bf4c953d6fbf16871c7, type: 2}

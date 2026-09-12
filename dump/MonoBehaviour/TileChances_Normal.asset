@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d650fd068e191d02ef3c2803e09f89ca, type: 3}
+  m_Name: TileChances_Normal
+  m_EditorClassIdentifier:
+  normalChance: 1000
+  royalChance: 500
+  chestChance: 250
+  powerUpChance: 150
+  eggChance: 25
+  stellarDonutChance: 12
+  dimensionalRiftChance: 25

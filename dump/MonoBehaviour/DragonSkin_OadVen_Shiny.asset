@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16a3225d4c345cd62d313f11ae98cd84, type: 3}
+  m_Name: DragonSkin_OadVen_Shiny
+  m_EditorClassIdentifier:
+  dragonUp: {fileID: 21300000, guid: 682adcf3a6b4ce04798ccf1a5e2fa6b5, type: 2}
+  dragonDown: {fileID: 21300000, guid: c33b7f1c03e945842b833baebb206de2, type: 2}
+  tailColor:
+    serializedVersion: 2
+    key0: {r: 0.26666668, g: 0.13725491, b: 0.32941177, a: 1}
+    key1: {r: 0.26666668, g: 0.13725491, b: 0.32941177, a: 1}
+    key2: {r: 0.78823537, g: 0.854902, b: 0.32156864, a: 0}
+    key3: {r: 0.9333334, g: 0.5647059, b: 0.69411767, a: 0}
+    key4: {r: 0.78823537, g: 0.854902, b: 0.32156864, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 29491
+    ctime2: 49151
+    ctime3: 65535
+    ctime4: 65535
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: 0
+    m_NumColorKeys: 4
+    m_NumAlphaKeys: 2
+  primaryColor: {r: 0.32941177, g: 0.16862746, b: 0.13725491, a: 1}
+  skillColor: {r: 0, g: 0, b: 0, a: 0}
+  dragonMaterial: {fileID: 2100000, guid: e7f4199427248ac4996c98de90abcd48, type: 2}
+  tailMaterial: {fileID: 2100000, guid: 9db5e3e4a7d3e6c4683c57a07d5c5745, type: 2}
+  maskedMaterial: {fileID: 2100000, guid: 0c2134e643ab8f64193c438e57375956, type: 2}

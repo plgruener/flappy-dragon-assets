@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_LoolaArchipielago
+  m_EditorClassIdentifier:
+  id: 8
+  name: Loola Archipielago
+  portrait: {fileID: 21300000, guid: aafee5d4a8645c6409cde6adfdbb1b2b, type: 2}
+  themes:
+  - {fileID: 11400000, guid: 5c2593859905bb64093e5452f147c2e2, type: 2}
+  - {fileID: 11400000, guid: a4f9dba32924b9342b33a54a99655a06, type: 2}
+  - {fileID: 11400000, guid: 779c7bf219b34104381ff28a5d12ae5d, type: 2}
+  - {fileID: 11400000, guid: 51fa68bbad874b14f91ca1798ba5c8f8, type: 2}
+  - {fileID: 11400000, guid: 83de359a3db5a684cbbe46dac7489245, type: 2}
+  - {fileID: 11400000, guid: e1efa90ab2ac83f4194fd44a9d4d4607, type: 2}
+  - {fileID: 11400000, guid: aad69fc3a993aa74fb114ecd060ebe98, type: 2}
+  - {fileID: 11400000, guid: 945ded10e1de4cc42904b5abca2d646f, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 467b4392dcbfab3429c0f3137911c746, type: 2}
+  - {fileID: 11400000, guid: b824d3112ad12184c86c23ce725865e7, type: 2}
+  - {fileID: 11400000, guid: 057831550113a214c86721df326b9c67, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: 208a6c10ec997b14381133e6c8a0e95c, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: 208a6c10ec997b14381133e6c8a0e95c, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 5
+      inSlope: -1.3099726
+      outSlope: -1.3099726
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.048611104
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 6
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 78281fbf608d697449b233a13e3d4a7e, type: 2}
+  audioClip: {fileID: 11400000, guid: 24b1bc87ad629b043963160d3720bfd6, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.LOOLA_ARCHIPELAGO.NAME
+  localizedDescriptionKey: D_WORLD.LOOLA_ARCHIPELAGO.DESCRIPTION

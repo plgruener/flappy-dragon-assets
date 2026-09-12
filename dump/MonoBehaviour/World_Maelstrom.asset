@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_Maelstrom
+  m_EditorClassIdentifier:
+  id: 15
+  name: Maelstrom
+  portrait: {fileID: 21300000, guid: 314821f13f6a9b941b8f6917f076645d, type: 2}
+  themes:
+  - {fileID: 11400000, guid: f817ac6f495f01e44a497acf7a822d01, type: 2}
+  - {fileID: 11400000, guid: 1e941e0ba216202418565a11947ecd6d, type: 2}
+  - {fileID: 11400000, guid: 2133cb0963295b34c95cada7f3ea5940, type: 2}
+  - {fileID: 11400000, guid: 637fa90c578c48d42aaa9865b677194e, type: 2}
+  - {fileID: 11400000, guid: f79f207be255bae42956d5d8c69c4d45, type: 2}
+  - {fileID: 11400000, guid: 8ce85c061706615499a31043069973a3, type: 2}
+  - {fileID: 11400000, guid: b9ffd7ba001d6ee4aadbab99dd8aa90a, type: 2}
+  royals:
+  - {fileID: 11400000, guid: f6eaaa7881add474e8ec27872d10cee1, type: 2}
+  - {fileID: 11400000, guid: af0d92f3f50c4e242ad0686d851c3241, type: 2}
+  - {fileID: 11400000, guid: c4231539fea69f04a8be33f4255c3315, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: 9201348d3424e264e9b329b6f9ef750e, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: a5e8cde8af0b06248ad2ea22c444e071, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 5
+      inSlope: -1.3099726
+      outSlope: -1.3099726
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.048611104
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 6
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: ccc8efe7dac5e02439c596b02a351ff2, type: 2}
+  audioClip: {fileID: 11400000, guid: b2f2106ad1ff40c4c9a1be390d947788, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_ABILITY.MAELSTROM.NAME
+  localizedDescriptionKey: D_WORLD.MAELSTROM.DESCRIPTION

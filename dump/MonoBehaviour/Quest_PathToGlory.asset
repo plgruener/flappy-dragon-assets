@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1535f171025841728fe7a037e303d20c, type: 3}
+  m_Name: Quest_PathToGlory
+  m_EditorClassIdentifier:
+  id: 1
+  nameKey: D_QUEST.PATH_TO_GLORY.NAME
+  descriptionKey: D_QUEST.PATH_TO_GLORY.DESCRIPTION
+  resetsProgressEachGame: 0
+  notifyProgress: 1
+  icon: {fileID: 21300000, guid: 922f622cade40104aa4369fd9b0073a8, type: 2}
+  objectivesByDifficulty: 020000000300000004000000
+  rewardLevel: 1
+  randomWorldRequisite: 0
+  hasRandomDragonTypeRequisite: 0
+  hasRandomDragonRarityRequisite: 0
+  hasRandomControlRequisite: 0

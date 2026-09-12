@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Dioft
+  m_EditorClassIdentifier:
+  id: 167
+  name: Dioft
+  type: 0
+  rarity: 1
+  controlType: 0
+  horizontalSpeed: 2.946497
+  verticalSpeed: 5.2699547
+  gravity: 9.632095
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.5, w: 0.8660254}
+  qDown: {x: 0, y: 0, z: 0.8660254, w: -0.50000006}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.DIOFT
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 1
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 4
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.7
+      value: 0.051000003
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.8
+      value: 0.102000006
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 3
+  tailTime: 0.39375
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 3671ed181c3526f4c90bb2b0b5ba1789, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 7a884f9181678a24f892e4db5b6b12c0, type: 2}
+  skinShiny: {fileID: 11400000, guid: 47945144a9d57434480ce053667e9b64, type: 2}
+  skinMastery: {fileID: 11400000, guid: f8c621c8f80d24d4fa0e844eaa2b8fa7, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: d3e33c691011c2c4c8556ba3febc40bb, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 1
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: c5d593f719a495044b8868d5782f29e9, type: 2}
+  - {fileID: 11400000, guid: ed398bc2877a59847aa3d087a5ef1df6, type: 2}
+  - {fileID: 11400000, guid: 06fd4ae8b7514ca4795be141b68c6144, type: 2}

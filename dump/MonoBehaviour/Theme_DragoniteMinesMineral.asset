@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_DragoniteMinesMineral
+  m_EditorClassIdentifier:
+  worldId: 4
+  id: 30
+  name: Dragonite Mines Mineral
+  portrait: {fileID: 21300000, guid: ca89fb47fbad06c44b56c08b22486173, type: 2}
+  isNight: 1
+  hasStars: 1
+  hasMist: 1
+  hasHighLevelClouds: 0
+  cloudDensity: 0
+  windForce: 0
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 1, g: 0.80784315, b: 0.91972786, a: 1}
+  skyMaterial: {fileID: 2100000, guid: 9900eb141673f3b49b493c9f2da56656, type: 2}
+  cloudColor: {r: 0.50980395, g: 0.28235295, b: 0.4373607, a: 1}
+  environment: {fileID: 1709254077376921, guid: 550ed78286dcccc4cb91b9ce468661b2, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.87058824, g: 0.79607844, b: 1, a: 1}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

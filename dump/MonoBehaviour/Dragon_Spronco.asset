@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Spronco
+  m_EditorClassIdentifier:
+  id: 96
+  name: Spronco
+  type: 5
+  rarity: 3
+  controlType: 0
+  horizontalSpeed: 3.133484
+  verticalSpeed: 4.8188734
+  gravity: 9.600722
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.5, w: 0.8660254}
+  qDown: {x: 0, y: 0, z: 0.8660254, w: -0.50000006}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.SPRONCO
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 1
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 0
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 2
+  tailTime: 0.35
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 25d1debe9834c2e43b4feb790768c40f, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 11789c4d1f431d842b644294d66ea253, type: 2}
+  skinShiny: {fileID: 11400000, guid: 2f51a8e41cae6ae47ad6f84796bd3099, type: 2}
+  skinMastery: {fileID: 11400000, guid: 4b95e750ff2403d4ea5f6c56588c9135, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: 800ca699e8fc0294f9d3efa48bcb3c11, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 1
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 2253d8f94071b424d850db451d131ac5, type: 2}
+  - {fileID: 11400000, guid: 14a25dcd438eca448bf1db7e70241a04, type: 2}
+  - {fileID: 11400000, guid: ed398bc2877a59847aa3d087a5ef1df6, type: 2}
+  - {fileID: 11400000, guid: 8b33d0c5303af364cae7b639a20b6f88, type: 2}

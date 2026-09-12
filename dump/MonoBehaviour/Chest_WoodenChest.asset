@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd5e18f0dd3a7e8c3de8fbc09e1d6d7, type: 3}
+  m_Name: Chest_WoodenChest
+  m_EditorClassIdentifier:
+  id: 0
+  name: Wooden Chest
+  chance: 50
+  crowns: {x: 1, y: 3}
+  randomEggChance: 5
+  sprite: {fileID: 21300000, guid: d7cd8d653f5f33545bce1dee3e6c2d7b, type: 2}
+  explosionAudioClips:
+  - {fileID: 11400000, guid: 6e9b02b7cb631564faaf70f4c147186d, type: 2}
+  hasExtraRunes: 0
+  brokenChestParticles: {fileID: 11400000, guid: 6611078b4834b394f91b47f8bf102f82, type: 2}
+  brokenChestParticlesInSpace: {fileID: 11400000, guid: 5352c13bdfcc5d040a7608ade1df0c53, type: 2}

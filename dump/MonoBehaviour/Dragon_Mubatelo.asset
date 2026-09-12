@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Mubatelo
+  m_EditorClassIdentifier:
+  id: 7
+  name: Mubatelo
+  type: 0
+  rarity: 1
+  controlType: 0
+  horizontalSpeed: 2.6746044
+  verticalSpeed: 5.1383123
+  gravity: 9.832998
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.5, w: 0.8660254}
+  qDown: {x: 0, y: 0, z: 0.8660254, w: -0.50000006}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.MUBATELO
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 1
+  mouthOffset: {x: 0, y: 0, z: 0}
+  tailPosition: {x: -1.18, y: -0.15, z: 0}
+  tailType: 2
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.17
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.55
+      value: 0.0765
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.65
+      value: 0.2125
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.75
+      value: 0.0765
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 4
+  tailTime: 0.4375
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 3af7141cf8a72a34a9ae19095874af34, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 9ce6055839eb7604998e0ea1c1e8c6ec, type: 2}
+  skinShiny: {fileID: 11400000, guid: f1a1305ea2a1325479594a390aaf75e7, type: 2}
+  skinMastery: {fileID: 11400000, guid: a84da68876d864e44a003715789d1455, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: f04df58a6a1cc1a48a3cafa5fa3873e5, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 0
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 2253d8f94071b424d850db451d131ac5, type: 2}
+  - {fileID: 11400000, guid: 7a2e9b0d5cb245a4aa4d8b8812f2f080, type: 2}
+  - {fileID: 11400000, guid: e0d9f0a1a9e54ed44b33932398715fec, type: 2}

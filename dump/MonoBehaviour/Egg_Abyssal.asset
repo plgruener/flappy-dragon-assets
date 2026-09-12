@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Abyssal
+  m_EditorClassIdentifier:
+  id: 52
+  name: Abyssal Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: 0dd8a852cc83c1a4eb5a9b19673c3df6, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: 22af116063c31a04b9e1012c0606f556, type: 2}
+  - {fileID: 11400000, guid: 2d7052c8c23caa1459865b426ca387ef, type: 2}
+  - {fileID: 11400000, guid: 24e004a75164f924badf8238e13178d1, type: 2}
+  - {fileID: 11400000, guid: 9f0bdd4aa4756a94e9a54ed040c9b310, type: 2}
+  - {fileID: 11400000, guid: f32a89dae6fa1204f9ae01a4d6eb6050, type: 2}
+  - {fileID: 11400000, guid: c342d0620a8dfb44a80236201d1d3baf, type: 2}
+  - {fileID: 11400000, guid: fadb580650e6fc14484fb527b71ef48b, type: 2}
+  nameKey: D_EGG.ABYSSAL.NAME
+  descriptionKey: D_EGG.ABYSSAL.DESCRIPTION
+  cameraBackgroundColor: {r: 0.8156863, g: 0.5058824, b: 0.53493565, a: 1}
+  outerBackgroundColor: {r: 0.6784314, g: 0.3764706, b: 0.55117816, a: 1}
+  particleColor: {r: 0.6784314, g: 0.3764706, b: 0.5859989, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 4
+  subtypeId: 17
+  material: {fileID: 2100000, guid: 2f757886f6717984a80616ccbd37b8d9, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

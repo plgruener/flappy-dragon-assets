@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40dc321a9f7c825638788a196574a234, type: 3}
+  m_Name: DimensionalAugment_Chaomancy
+  m_EditorClassIdentifier:
+  id: 11
+  name: Chaomancy
+  description: Remove powerups, but you get a random one at random intervals (up to 60 seconds).
+  isStackable: 0
+  localizedNameKey: D_DIMENSIONAL_AUGMENT.CHAOMANCY.NAME
+  localizedDescriptionKey: D_DIMENSIONAL_AUGMENT.CHAOMANCY.DESCRIPTION
+  hasPrimaryValueModifiers: 0
+  prefixValuePrimary:
+  suffixValuePrimary:
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  valuePrimary: 60
+  valueSecondary: 0
+  icon: {fileID: 21300000, guid: 9fc1f9c7452ee0342af60135ed57d20d, type: 2}
+  prefab: {fileID: 0}

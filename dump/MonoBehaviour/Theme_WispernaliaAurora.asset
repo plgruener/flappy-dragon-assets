@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_WispernaliaAurora
+  m_EditorClassIdentifier:
+  worldId: 13
+  id: 96
+  name: Wispernalia Aurora
+  portrait: {fileID: 21300000, guid: d1aa0433c91d2394aab19fe043beb9b4, type: 2}
+  isNight: 0
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0.25
+  windForce: 0.25
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 0.79607844, g: 0.9098039, b: 1, a: 1}
+  skyMaterial: {fileID: 2100000, guid: c935e1e4499a14d4cbf647f45e340f75, type: 2}
+  cloudColor: {r: 0.16470589, g: 0.44748092, b: 0.5137255, a: 1}
+  environment: {fileID: 1709254077376921, guid: ccfd5d86cc51ab6469a473c37795c2b1, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.79607844, g: 0.9098039, b: 1, a: 1}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

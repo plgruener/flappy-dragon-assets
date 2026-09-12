@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Royal_RonokaKing
+  m_EditorClassIdentifier:
+  name: RonokaKing
+  clipReferences:
+  - m_AssetGUID: 2cc95564125cae844a05ec8cb3409d27
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 967ebb9c34584254196122d4bdc02350
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 665d809496f1b704a8742f2cd346ee0e
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 6b18b5cb185d4714dadfd1ff43381b3a
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 80ebfe0d2d8849d4db2c731a53331d87
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 2
+  BPM: 0

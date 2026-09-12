@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84ef4f9b192633c1f14f5d6f0bc466e5, type: 3}
+  m_Name: Dragon_Hurbom
+  m_EditorClassIdentifier:
+  id: 126
+  name: Hurbom
+  type: 4
+  rarity: 3
+  controlType: 2
+  horizontalSpeed: 3.34
+  verticalSpeed: 4.27
+  gravity: 11.44
+  canRotate: 1
+  qForward: {x: 0, y: 0, z: 0.25881904, w: 0.9659258}
+  qDown: {x: 0, y: 0, z: 0.25881913, w: -0.9659258}
+  localizedDescription:
+    mTerm: D_DRAGON_DESCRIPTION.HURBOM
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  isWinged: 0
+  mouthOffset: {x: 0.1, y: 0.35, z: 0}
+  tailPosition: {x: -1.18, y: 0.5, z: 0}
+  tailType: 12
+  tailShape:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.25
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.5
+      value: 0.1105
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.75
+      value: 0.255
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tailSize: 1
+  tailTime: 0.30625
+  tailMinVertexDistance: 0
+  skill: {fileID: 11400000, guid: 8822fbbc3765e1b4e9849ef9d4294e8f, type: 2}
+  portraitOffset: {x: 0, y: 0}
+  skinDefault: {fileID: 11400000, guid: 8b70c1fb09c153a468ac37466f833357, type: 2}
+  skinShiny: {fileID: 11400000, guid: f55bac1cc6e068c4c8205d4c2c48c428, type: 2}
+  skinMastery: {fileID: 11400000, guid: 61001c418bd63114ebf454cecf7f8dc4, type: 2}
+  skinPrismatic: {fileID: 11400000, guid: 23613b994a3f70942abb375979dd170e, type: 2}
+  usesDragonHeart: 0
+  usesEvilMushroom: 0
+  usesFairyDust: 0
+  usesDragonEye: 0
+  usesDragonChilli: 1
+  usesThunderCloud: 0
+  usesSandsOfTime: 0
+  usesCosmicStars: 0
+  usesLuckyCharm: 0
+  usesCurvedSpoon: 0
+  usesMagicSnowflake: 0
+  usesSpookyGhost: 0
+  breedingEggs:
+  - {fileID: 11400000, guid: 368c4212e23d4464a9cda7af94be7ce4, type: 2}
+  - {fileID: 11400000, guid: fcd5e5bb28c0f4a46a8c78414a13e28d, type: 2}
+  - {fileID: 11400000, guid: 17c749d1ba72ea34592f347b6834f50c, type: 2}

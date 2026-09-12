@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Royal_CanaryIslandsLizard
+  m_EditorClassIdentifier:
+  name: CanaryIslandsLizard
+  clipReferences:
+  - m_AssetGUID: d62e6e55a5f480245bd881630c80e3d5
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: c3dc21c578c06204891839f82358689d
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: cb0269040eddffa4487fd30d07bf1d29
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 1876bb825255b0b46b2b66155425c80c
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 4e09d78536d5f9f439664c4a4e3875b9
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 2
+  BPM: 0

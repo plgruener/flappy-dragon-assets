@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_Winternalia_IceQueen
+  m_EditorClassIdentifier:
+  id: 43
+  name: Ice Queen
+  idle: {fileID: 21300000, guid: ca0ce7b6b52c26c4aa3b506c2f16ac51, type: 2}
+  idle2: {fileID: 21300000, guid: 98821f6090399c14e8c14a48e76f2280, type: 2}
+  deathParticles: {fileID: 11400000, guid: 2ea9bef37027b68459ebd43dd55e9078, type: 2}
+  transformOffset: {x: 0, y: -0.05, z: 0}
+  transformScale: {x: 0.19125, y: 0.19125, z: 0.19125}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 1
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: 1aa8bcbc4706fdb4986dc3a936aabac3, type: 2}
+  - {fileID: 11400000, guid: c69295b06c856f34ba05d3da9be15d3b, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 0, y: -6, z: 0}
+  worldmapScaleOffset: {x: 1, y: 1, z: 1}

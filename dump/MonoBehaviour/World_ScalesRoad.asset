@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_ScalesRoad
+  m_EditorClassIdentifier:
+  id: 2
+  name: Scales Road
+  portrait: {fileID: 21300000, guid: e26eaeb5714942d4391abcb6e2c19b95, type: 2}
+  themes:
+  - {fileID: 11400000, guid: eb81cae59d594ce4d84e03d6fe241840, type: 2}
+  - {fileID: 11400000, guid: efccbb5026ea68a4f8a72ae621a37db5, type: 2}
+  - {fileID: 11400000, guid: 13966dbd21c03404bb67f165d665b51c, type: 2}
+  - {fileID: 11400000, guid: 358d3184b59fb2b49a22075f51ed04b0, type: 2}
+  - {fileID: 11400000, guid: 9cd0ccf20b420a14189af0c0b77f242c, type: 2}
+  - {fileID: 11400000, guid: 9eac9c3540da66b4e9fddfd93f65b8e1, type: 2}
+  - {fileID: 11400000, guid: c1c26f1110889bd49ab68f77ea423aad, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 6fb1fb9529c2cf349b3936068b0be510, type: 2}
+  - {fileID: 11400000, guid: b5f3c506b21c7ca41bf321bec13a7d86, type: 2}
+  - {fileID: 11400000, guid: e5c882ca56d746445b21761ef98b1cc1, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: acf2e4603c91b5b4b9b33c124ead6707, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: dbe1c75bb6fb5e74e92ef50c52eb033f, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 5
+      inSlope: -1.3099726
+      outSlope: -1.3099726
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.048611104
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 6
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: ab05b9c1c7a4c3d40816a21e9ab4cfc4, type: 2}
+  audioClip: {fileID: 11400000, guid: 1695d1fe67b8676408053b40f676f16d, type: 2}
+  hasWater: 1
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.SCALES_ROAD.NAME
+  localizedDescriptionKey: D_WORLD.SCALES_ROAD.DESCRIPTION

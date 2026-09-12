@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Tetric
+  m_EditorClassIdentifier:
+  id: 16
+  name: Tetric Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: c4e725f3b431fdd42b4418758892efe0, type: 2}
+  rarityPool: 6
+  typePool: 5
+  customDragonPool:
+  - {fileID: 11400000, guid: c8698f62f562ab8449fa1a6115c01dd7, type: 2}
+  - {fileID: 11400000, guid: d9fd1e7b07c5ce84d89238622a571617, type: 2}
+  - {fileID: 11400000, guid: ed2a2950462d1584da9aca709d71b426, type: 2}
+  - {fileID: 11400000, guid: 77ab80cf95cc49f429a223a32e720cb7, type: 2}
+  - {fileID: 11400000, guid: 9b842088bc72bdb4c9f274b2efb68e84, type: 2}
+  - {fileID: 11400000, guid: 535abf402b1afa7419c4623c630ed380, type: 2}
+  - {fileID: 11400000, guid: 423dfaa0314971b4881d0779d3aa0668, type: 2}
+  - {fileID: 11400000, guid: 9c26872ffb28ef34c9a37439ba1e64db, type: 2}
+  - {fileID: 11400000, guid: f2c0cca7733862448a60a8f4f8900c97, type: 2}
+  - {fileID: 11400000, guid: 0017bd9135a6fef4fb08c04969fbf5f5, type: 2}
+  - {fileID: 11400000, guid: 7a326e56602f2f3498b09dd2337d1d23, type: 2}
+  - {fileID: 11400000, guid: 51b97c3b0b542714cb4239c9716b81eb, type: 2}
+  - {fileID: 11400000, guid: 9665c233a361fbb4caded327d536b2fa, type: 2}
+  - {fileID: 11400000, guid: bb691063ffe48354cb94fb60ddeb5211, type: 2}
+  - {fileID: 11400000, guid: f3c79e65d9d2c9942bca56b7ea888770, type: 2}
+  - {fileID: 11400000, guid: c936b3dc396f13742aa62f67a732c5ae, type: 2}
+  - {fileID: 11400000, guid: f5fc15d40b8ad044aafa7f224e5eeb8f, type: 2}
+  - {fileID: 11400000, guid: 1e1b18bdb20a0214b9d88067a7e89026, type: 2}
+  - {fileID: 11400000, guid: da7cfeeac2aea5f4283b33d635892448, type: 2}
+  - {fileID: 11400000, guid: 04cdcec584d2b6c4da78fa5b7b8cdb2c, type: 2}
+  - {fileID: 11400000, guid: dda385253f3d5934e91c829d09276c3c, type: 2}
+  - {fileID: 11400000, guid: c90573a81e19efa4a81bbec0582680d4, type: 2}
+  - {fileID: 11400000, guid: ff8321bb2938c2141a113e988f38b643, type: 2}
+  - {fileID: 11400000, guid: 5d1de0c3321744d479958f60dfcc5f33, type: 2}
+  - {fileID: 11400000, guid: 69f9bf483327e8b4aaa8fc63218d8069, type: 2}
+  - {fileID: 11400000, guid: da83a779760306f44a2e69dca67b977a, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_TETRIC
+  descriptionKey: D_EGG.TETRIC.DESCRIPTION
+  cameraBackgroundColor: {r: 0.7254902, g: 0.5058824, b: 0.8156863, a: 1}
+  outerBackgroundColor: {r: 0.5137255, g: 0.47843137, b: 0.99215686, a: 1}
+  particleColor: {r: 0.79007596, g: 0.32549018, b: 0.8117647, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 9
+  material: {fileID: 2100000, guid: 4849bccadffa5de468c9c15fd295dbe6, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}

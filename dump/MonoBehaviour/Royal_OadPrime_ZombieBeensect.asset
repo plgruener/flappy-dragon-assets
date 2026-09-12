@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_OadPrime_ZombieBeensect
+  m_EditorClassIdentifier:
+  id: 65
+  name: Zombie Beensect
+  idle: {fileID: 21300000, guid: 476a122850ca52c4dba2162e1860420c, type: 2}
+  idle2: {fileID: 21300000, guid: d7123b5adc3a5324b909b3f4a34558fc, type: 2}
+  deathParticles: {fileID: 11400000, guid: 20b76056fa431b44286a317a3aecf332, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.19125, y: 0.19125, z: 0.19125}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 0
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: 1aa8bcbc4706fdb4986dc3a936aabac3, type: 2}
+  - {fileID: 11400000, guid: 0e2090a2f8024d74bb3a1b4996fbd6d4, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 0, y: -6, z: 0}
+  worldmapScaleOffset: {x: 1, y: 1, z: 1}

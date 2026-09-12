@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f02a433b2a8279a8eef3f61e10b04590, type: 3}
+  m_Name: Royal_CactusCanyon_Sheriff
+  m_EditorClassIdentifier:
+  id: 59
+  name: Sheriff
+  idle: {fileID: 21300000, guid: 761f2d0c1be62e1499e5596d0efdbf4d, type: 2}
+  idle2: {fileID: 21300000, guid: d70e4f126b76e8a4590e2a0b11aafe8e, type: 2}
+  deathParticles: {fileID: 11400000, guid: aa40be932570013468e1e22bc5f6add6, type: 2}
+  transformOffset: {x: 0, y: 0, z: 0}
+  transformScale: {x: 0.19125, y: 0.19125, z: 0.19125}
+  offset: {x: 0, y: 0}
+  size: {x: 1, y: 1}
+  canSleep: 1
+  hasExtraAtrezzo: 0
+  extraAtrezzoOffset: {x: 0, y: 0}
+  behaviour: 0
+  deathAudioClips:
+  - {fileID: 11400000, guid: 54a08b6b2e1fb5247a34bb254bcbb250, type: 2}
+  layer: 0
+  worldmapPositionOffset: {x: 0, y: -6, z: 0}
+  worldmapScaleOffset: {x: 1, y: 1, z: 1}

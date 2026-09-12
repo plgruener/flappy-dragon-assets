@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_SynthoniaCyberpunk
+  m_EditorClassIdentifier:
+  worldId: 14
+  id: 106
+  name: Synthonia Cyberpunk
+  portrait: {fileID: 21300000, guid: 832d3f3235ff19c4ea8aa0347b8f8bb8, type: 2}
+  isNight: 1
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0
+  windForce: 0
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 1, g: 0.9529412, b: 0.8901961, a: 1}
+  skyMaterial: {fileID: 2100000, guid: c4658418c5b88254b9113fab2642202b, type: 2}
+  cloudColor: {r: 1, g: 1, b: 1, a: 1}
+  environment: {fileID: 1709254077376921, guid: d4ffe1d674d464a4a9d6bc01abcf3023, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.80784315, g: 0.95720255, b: 1, a: 1}
+  extraColor: {r: 0.98039216, g: 0.9764706, b: 0.39215687, a: 1}

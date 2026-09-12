@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Dragon_BreathFire
+  m_EditorClassIdentifier:
+  name: BreathFire
+  clipReferences:
+  - m_AssetGUID: 1f5dc3b966b36e446b232f518fee3706
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 26a38b1586df6a84ab646d8331949514
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 30500705f825fe54f99ca52036baeac5
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 928c6e4e2649aa249bfdb298248aeae5
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 5
+  BPM: 0

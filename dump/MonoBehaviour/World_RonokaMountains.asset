@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_RonokaMountains
+  m_EditorClassIdentifier:
+  id: 0
+  name: Ronoka Mountains
+  portrait: {fileID: 21300000, guid: 1a62f62480a9ad040ba08cbad8171889, type: 2}
+  themes:
+  - {fileID: 11400000, guid: e1cd30f209fe2fa48a6d1b9837658931, type: 2}
+  - {fileID: 11400000, guid: 347be6339fb6b6d458e1c20227c351eb, type: 2}
+  - {fileID: 11400000, guid: b206fced0bf4a5940912304eaf062252, type: 2}
+  - {fileID: 11400000, guid: 1bf43fb9838c0334a8d8b36433b47378, type: 2}
+  - {fileID: 11400000, guid: 04c8bbff6da794a418866a97e9c8fb95, type: 2}
+  - {fileID: 11400000, guid: 91d9c3b57a376de4c827bc6886cb4348, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 5c7e73128f2bd2141823fcfa8df6e5a9, type: 2}
+  - {fileID: 11400000, guid: a23414d22a1278f47b948d13f78d883f, type: 2}
+  - {fileID: 11400000, guid: 118064bb19ea11f4db8fdc01d26afb34, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: f5d082e9c980e4e4889cadc7f5f13f04, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: f5d082e9c980e4e4889cadc7f5f13f04, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 71b9353590a6a974d8d09872f8a84cde, type: 2}
+  audioClip: {fileID: 11400000, guid: 9fb7aec6eca478b44b08f8773879176d, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.RONOKA_MOUNTAINS.NAME
+  localizedDescriptionKey: D_WORLD.RONOKA_MOUNTAINS.DESCRIPTION

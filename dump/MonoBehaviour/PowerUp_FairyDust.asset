@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b36d6096f57b841f8fb6fc99a4b0d191, type: 3}
+  m_Name: PowerUp_FairyDust
+  m_EditorClassIdentifier:
+  id: 3
+  name: Fairy Dust
+  description: 0.5 Size and 0.5 Speed (need more testing) while the buff is active.
+  chance: 100
+  sprite: {fileID: 21300000, guid: 6c9030cb9435b534fbffb326b3ca7247, type: 2}
+  primaryColor: {r: 0.93725497, g: 0.56078434, b: 0.69803923, a: 1}
+  secondaryColor: {r: 1, g: 0.7122642, b: 0.8171679, a: 1}
+  dramaticBackgroundColor: {r: 0.101960786, g: 0, b: 0.08905204, a: 0.5019608}
+  isActive: 1
+  isPassive: 0
+  duration: 12
+  radius: 0
+  power: 0
+  ticks: 0
+  newCameraOrthographicSize: 0
+  newTimeScale: 0
+  givesExtraLife: 0
+  givesExtraShield: 0
+  powerUpPickUpSound: {fileID: 11400000, guid: 5dff257fa54eae04f8df11e14a88b54a, type: 2}
+  powerUpActiveSound: {fileID: 0}
+  powerUpDestroySound: {fileID: 0}
+  powerUpPickupParticles: {fileID: 11400000, guid: 16dbd8b8799949c4f86361be56618f38, type: 2}
+  localizedName:
+    mTerm: D_POWERUP.FAIRY_DUST.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_POWERUP.FAIRY_DUST.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  affectsControllerSpeed: 0
+  storedPowerupSprite: {fileID: 21300000, guid: 2b927bbe3e968c54598f89f13d9e862b, type: 2}
+  storedPowerupScaleMultiplier: 1
+  powerupDonutSprite: {fileID: 21300000, guid: 8ecaf79e823993c429ec95f3c50bc0ec, type: 2}

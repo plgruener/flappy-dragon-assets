@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_SynthoniaMatrix
+  m_EditorClassIdentifier:
+  worldId: 14
+  id: 109
+  name: Synthonia Matrix
+  portrait: {fileID: 21300000, guid: 79425765bfd53ae41a49fbdf56b406a7, type: 2}
+  isNight: 1
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0
+  windForce: 0
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 0.81971985, g: 1, b: 0.80784315, a: 1}
+  skyMaterial: {fileID: 2100000, guid: 36c03d93ef5e4534ea3a0cbc8621f491, type: 2}
+  cloudColor: {r: 0.2784314, g: 0.33333334, b: 0.34117648, a: 1}
+  environment: {fileID: 1709254077376921, guid: bfd29ef6cd7fe634a89f4e1170538f12, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.82768035, g: 1, b: 0.80784315, a: 1}
+  extraColor: {r: 0.39215687, g: 0.98039216, b: 0.40392157, a: 1}

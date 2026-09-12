@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb30f403fd858219f3476f5eea6dc837, type: 3}
+  m_Name: Skill_ClockworkPrecision
+  m_EditorClassIdentifier:
+  id: 134
+  name: Clockwork Precision
+  description: Gain 10% speed by spinning to the right and lose it by spinning the left. Up to 24 spins.
+  localizedName:
+    mTerm: D_ABILITY.CLOCKWORK_PRECISION.NAME
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  localizedDescription:
+    mTerm: D_ABILITY.CLOCKWORK_PRECISION.DESCRIPTION
+    mRTL_IgnoreArabicFix: 0
+    mRTL_MaxLineLength: 0
+    mRTL_ConvertNumbers: 0
+    m_DontLocalizeParameters: 0
+  hasPrimaryValueModifiers: 1
+  prefixValuePrimary:
+  suffixValuePrimary: '%'
+  hasSecondaryValueModifiers: 0
+  prefixValueSecondary:
+  suffixValueSecondary:
+  minValuePrimary: 12
+  maxValuePrimary: 24
+  minValueSecondary: 24
+  maxValueSecondary: 24
+  isActive: 0
+  minValueCooldown: 60
+  maxValueCooldown: 12
+  activateCondition: 262144
+  icon: {fileID: 21300000, guid: e5faba672b98c834a9926cad62f4cc06, type: 2}
+  prefab: {fileID: 0}
+  isProgrammed: 1
+  increaseRoyalAppearenceChance: 0
+  increaseChestAppearenceChance: 0
+  increaseEggAppearenceChance: 0
+  increasePowerUpAppearenceChance: 0
+  increasePortalAppearenceChance: 0
+  increaseStellarDonutAppearenceChance: 0

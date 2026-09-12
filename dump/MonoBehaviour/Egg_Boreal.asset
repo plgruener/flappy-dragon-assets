@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Boreal
+  m_EditorClassIdentifier:
+  id: 17
+  name: Boreal Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: a4909d917a6e55b47a8d4df0a19904a2, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool:
+  - {fileID: 11400000, guid: f890ae6d726de8c468a83a2585426b6d, type: 2}
+  - {fileID: 11400000, guid: d2932b0df277a0f48bd408a22082ab6a, type: 2}
+  - {fileID: 11400000, guid: 34cf338d016b7054bb39476faf8e893a, type: 2}
+  - {fileID: 11400000, guid: e4adeedf926249a449146db5ed8bf2c1, type: 2}
+  - {fileID: 11400000, guid: 4f405044498ac454db755c705743dc00, type: 2}
+  - {fileID: 11400000, guid: 04865d1680d12174891010ab4e925e1f, type: 2}
+  - {fileID: 11400000, guid: 2a8b340ed71653545aff6fbd78c337c0, type: 2}
+  - {fileID: 11400000, guid: 6efb12a94d6b9f54d8c3224cc6919e9f, type: 2}
+  - {fileID: 11400000, guid: be386160509e993449ef72e1ba504dc3, type: 2}
+  - {fileID: 11400000, guid: 1ccc0c9af20c79a4d9a896caa580c2a2, type: 2}
+  - {fileID: 11400000, guid: e272243cdf007c545a86676c27286b19, type: 2}
+  - {fileID: 11400000, guid: 74faee06f17993e4d8d4caa64a393d1c, type: 2}
+  - {fileID: 11400000, guid: bcdde28d25cc8fc41bd3b8f6f5b6a769, type: 2}
+  - {fileID: 11400000, guid: 6db09b8e6372e7b4fb586468460adeb0, type: 2}
+  - {fileID: 11400000, guid: 0bdb1aeea6df31f4e96e110871be079f, type: 2}
+  - {fileID: 11400000, guid: bd1abc0e5c773914f9013ce3ebe0cacb, type: 2}
+  - {fileID: 11400000, guid: dc9cbb6d653d68e49a2ef1a63fc32c9d, type: 2}
+  - {fileID: 11400000, guid: 7d3507e0aecc2e64cbf4cc866b0fa563, type: 2}
+  - {fileID: 11400000, guid: 3c18b7c92b709c64ab36137cfe216ba9, type: 2}
+  - {fileID: 11400000, guid: d7ba7d8ec338e8e439e8fdc7ca2a2b2a, type: 2}
+  - {fileID: 11400000, guid: 88a15a903dc460844bdd82f222371f81, type: 2}
+  - {fileID: 11400000, guid: b97461b7cc9505d43a6a47dcbf9ebfa3, type: 2}
+  nameKey: S_EGG_OBTAINED.EGG_BOREAL
+  descriptionKey: D_EGG.WINTER.DESCRIPTION
+  cameraBackgroundColor: {r: 0.5058824, g: 0.7607843, b: 0.8156863, a: 1}
+  outerBackgroundColor: {r: 0.22745098, g: 0.53333336, b: 0.5568628, a: 1}
+  particleColor: {r: 0.32549018, g: 0.7518583, b: 0.8117647, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 0
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 2
+  subtypeId: 11
+  material: {fileID: 2100000, guid: 59c2f462dbc26a545ad0005aa931c70c, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 150, z: 0}

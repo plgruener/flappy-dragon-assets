@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_BayBeach
+  m_EditorClassIdentifier:
+  id: 9
+  name: Bay Beach
+  portrait: {fileID: 21300000, guid: eaf24828a98c45345b5ec74af5a11632, type: 2}
+  themes:
+  - {fileID: 11400000, guid: a7a4d6d7b7d5edb4d9d9464292bfa6f6, type: 2}
+  - {fileID: 11400000, guid: f27aa3d6bdd918c42b357abfeb645d26, type: 2}
+  - {fileID: 11400000, guid: 7dc6284b3aae23f4eb726cb29a6dfc0e, type: 2}
+  - {fileID: 11400000, guid: 1d980df47da880c4aafbaba7f78dca7c, type: 2}
+  - {fileID: 11400000, guid: 4f541276a6a412b408e30fb484ebb4a4, type: 2}
+  - {fileID: 11400000, guid: 814d7128e5f0d9a478dabf01f09eb60a, type: 2}
+  royals:
+  - {fileID: 11400000, guid: c62ac9d4eae28e94ea06b642d9612bf4, type: 2}
+  - {fileID: 11400000, guid: 18add4feb15ba074b8ed485c5b805308, type: 2}
+  - {fileID: 11400000, guid: 38403598bc56ca34aae8d63e70a856dd, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: bbedeefd8db3db84ea15fd8ceead6c30, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: bbedeefd8db3db84ea15fd8ceead6c30, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: 3e1927f3b7a41e44fb3e7cd35064bea2, type: 2}
+  audioClip: {fileID: 11400000, guid: 8383479eea1f60649a5fe75b767a66a4, type: 2}
+  hasWater: 1
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.BAY_BEACH.NAME
+  localizedDescriptionKey: D_WORLD.BAY_BEACH.DESCRIPTION

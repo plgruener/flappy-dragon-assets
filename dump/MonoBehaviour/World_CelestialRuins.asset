@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02fa0259a335f3b643e3593267409ec5, type: 3}
+  m_Name: World_CelestialRuins
+  m_EditorClassIdentifier:
+  id: 17
+  name: Celestial Ruins
+  portrait: {fileID: 21300000, guid: 1b8e3eb9345d5424bb6f6d8df21d63c9, type: 2}
+  themes:
+  - {fileID: 11400000, guid: d48f57ecb2e9d9a45aef9f7e62b21ffd, type: 2}
+  - {fileID: 11400000, guid: 8a0900e111ad5eb4a93c7e649da2d8ac, type: 2}
+  - {fileID: 11400000, guid: 9a9751ceebd35074f9f8c1a15bc872e4, type: 2}
+  - {fileID: 11400000, guid: 87751f647b18bce4daf495fc29ea5379, type: 2}
+  - {fileID: 11400000, guid: 77a6868b82930304796a1453e404cb70, type: 2}
+  - {fileID: 11400000, guid: 67bb850410b7e8f43b232279e967ffa8, type: 2}
+  - {fileID: 11400000, guid: 34773abf30b7d7f4d9a3083316960d2d, type: 2}
+  - {fileID: 11400000, guid: 852a38d5b155ce74bbf0680016e3799e, type: 2}
+  royals:
+  - {fileID: 11400000, guid: 27d56df45d2128e449b0e4005d737708, type: 2}
+  - {fileID: 11400000, guid: b455f83a9820a42439a8da768814e999, type: 2}
+  - {fileID: 11400000, guid: 74b0a7485e8499c4f9d171065e0af8f5, type: 2}
+  towerDestructionParticles: {fileID: 11400000, guid: a06c216375a1bb1409ce6193a2729510, type: 2}
+  towerDestructionParticlesContent: {fileID: 11400000, guid: 3c790537cd318a1438dcae83fd825a76, type: 2}
+  spacingCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: -4.6807685
+      outSlope: -2.1786208
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.049957097
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  closureCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 7
+      inSlope: 0.028467542
+      outSlope: 0.028467542
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.120165974
+    - serializedVersion: 3
+      time: 1
+      value: 5.4
+      inSlope: -2.495461
+      outSlope: -2.495461
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.056643903
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  tile: {fileID: 1709254077376921, guid: d40a4c4583c082a4da687245329f21c4, type: 2}
+  audioClip: {fileID: 11400000, guid: d8bb2af788ef13548a8dc0bd6369c9dd, type: 2}
+  hasWater: 0
+  isUnderwater: 0
+  localizedNameKey: D_WORLD.CELESTIAL_RUINS.NAME
+  localizedDescriptionKey: D_WORLD.CELESTIAL_RUINS.DESCRIPTION

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff93cf7bc9f709da3467b455c2d94ac, type: 3}
+  m_Name: Theme_DragonGraveyard_Miasma
+  m_EditorClassIdentifier:
+  worldId: 19
+  id: 145
+  name: Dragon Graveyard Miasma
+  portrait: {fileID: 21300000, guid: e3bf1101d66d6a84f9b3c83ae66cbc97, type: 2}
+  isNight: 0
+  hasStars: 1
+  hasMist: 0
+  hasHighLevelClouds: 0
+  cloudDensity: 0.3
+  windForce: 0.25
+  hasRain: 0
+  hasSnow: 0
+  UIAccentColor: {r: 0.79607844, g: 0.9098039, b: 1, a: 1}
+  skyMaterial: {fileID: 2100000, guid: f298d2670cd62f041a26b315b7cde264, type: 2}
+  cloudColor: {r: 0.22745097, g: 0.52156866, b: 0.48644447, a: 1}
+  environment: {fileID: 1709254077376921, guid: 04f8ceaaebc3cf941a8676862a4f2cf9, type: 2}
+  clarityBackgroundColor: {r: 0, g: 0, b: 0, a: 0.34901962}
+  overrideStarsColor: 1
+  starsColor: {r: 0.79607844, g: 0.9980033, b: 1, a: 1}
+  extraColor: {r: 0, g: 0, b: 0, a: 1}

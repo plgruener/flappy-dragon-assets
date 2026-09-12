@@ -1,0 +1,332 @@
+[
+    {
+        "Name": {
+            "English": "Chrysalis Egg",
+            "Spanish": "Huevo Crisálida",
+            "German": "Chrysalis Ei",
+            "French": "Œuf chrysalide",
+            "Italian": "Uovo crisalide",
+            "Dutch": "Chrysalis Ei",
+            "Portuguese": "Ovo Crisálida",
+            "Russian": "Яйцо хризалис",
+            "Japanese": "クリサリスエッグ",
+            "Chinese": "蛹蛋",
+            "Chinese (Simplified)": "蛹蛋",
+            "Korean": "번데기 알"
+        },
+        "IncubationTime": 8,
+        "RarityPool": "All",
+        "TypePool": "Fairy",
+        "CustomPool": [
+            "Posaleja",
+            "Belbelulo",
+            "Bluterflos",
+            "Fantaquito",
+            "Froade",
+            "Krokita",
+            "Marispal",
+            "Mormoza",
+            "Pixipipo",
+            "Quolkaano",
+            "Quolmeena",
+            "Rakles",
+            "Sirouna",
+            "Stariposa",
+            "Sylvetrose",
+            "Xexarga"
+        ]
+    },
+    {
+        "Name": {
+            "English": "Common egg",
+            "Spanish": "Huevo común",
+            "German": "Gewöhnliches Ei",
+            "French": "Œuf commun",
+            "Italian": "Uovo comune",
+            "Dutch": "Gewoon ei",
+            "Portuguese": "Ovo comum",
+            "Russian": "Обыкновенное яйцо",
+            "Japanese": "一般的な卵",
+            "Chinese": "普通蛋",
+            "Chinese (Simplified)": "普通鸡蛋",
+            "Korean": "일반적인 계란"
+        },
+        "IncubationTime": 1,
+        "RarityPool": "Common",
+        "TypePool": "All",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Cosmic egg",
+            "Spanish": "Huevo cósmico",
+            "German": "Kosmisches Ei",
+            "French": "Œuf cosmique",
+            "Italian": "Uovo cosmico",
+            "Dutch": "Kosmisch ei",
+            "Portuguese": "Ovo cósmico",
+            "Russian": "Космическое яйцо",
+            "Japanese": "コズミックエッグ",
+            "Chinese": "宇宙蛋",
+            "Chinese (Simplified)": "宇宙蛋",
+            "Korean": "우주 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Cosmic",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Eastern egg",
+            "Spanish": "Huevo oriental",
+            "German": "Orientalisches Ei",
+            "French": "Œuf oriental",
+            "Italian": "Uovo orientale",
+            "Dutch": "Oosters ei",
+            "Portuguese": "Ovo oriental",
+            "Russian": "Восточное яйцо",
+            "Japanese": "オリエンタルエッグ",
+            "Chinese": "東方雞蛋",
+            "Chinese (Simplified)": "东方鸡蛋",
+            "Korean": "동양의 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Eastern",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Epic egg",
+            "Spanish": "Huevo épico",
+            "German": "Episches Ei",
+            "French": "Œuf épique",
+            "Italian": "Uovo epico",
+            "Dutch": "Episch ei",
+            "Portuguese": "Ovo épico",
+            "Russian": "Эпическое яйцо",
+            "Japanese": "エピックエッグ",
+            "Chinese": "史詩蛋",
+            "Chinese (Simplified)": "史诗般的鸡蛋",
+            "Korean": "서사시 계란"
+        },
+        "IncubationTime": 8,
+        "RarityPool": "Epic",
+        "TypePool": "All",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Fairy Egg",
+            "Spanish": "Huevo de hada",
+            "German": "Feen-Ei",
+            "French": "Œuf de fée",
+            "Italian": "Uovo di fata",
+            "Dutch": "Fee Ei",
+            "Portuguese": "Ovo de Fada",
+            "Russian": "Яйцо феи",
+            "Japanese": "フェアリーエッグ",
+            "Chinese": "童話雞蛋",
+            "Chinese (Simplified)": "仙女蛋",
+            "Korean": "요정 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Fairy",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Mottled egg",
+            "Spanish": "Huevo moteado",
+            "German": "Gesprenkeltes Ei",
+            "French": "Œuf moucheté",
+            "Italian": "Uovo screziato",
+            "Dutch": "Spikkel ei",
+            "Portuguese": "Ovo mosqueado",
+            "Russian": "Крапчатое яйцо",
+            "Japanese": "斑点入りの卵",
+            "Chinese": "斑駁的雞蛋",
+            "Chinese (Simplified)": "有斑点的鸡蛋",
+            "Korean": "얼룩덜룩 한 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Feathered",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Legendary egg",
+            "Spanish": "Huevo legendario",
+            "German": "Legendäres Ei",
+            "French": "Œuf légendaire",
+            "Italian": "Uovo leggendario",
+            "Dutch": "Legendarisch ei",
+            "Portuguese": "Ovo lendário",
+            "Russian": "Легендарное яйцо",
+            "Japanese": "伝説の卵",
+            "Chinese": "傳奇雞蛋",
+            "Chinese (Simplified)": "传说中的蛋",
+            "Korean": "전설적인 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "Legendary",
+        "TypePool": "All",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Pearl egg",
+            "Spanish": "Huevo perla",
+            "German": "Perlen-Ei",
+            "French": "Œuf en perle",
+            "Italian": "Uovo di perla",
+            "Dutch": "Parel ei",
+            "Portuguese": "Ovo de pérola",
+            "Russian": "Жемчужное яйцо",
+            "Japanese": "パールエッグ",
+            "Chinese": "珍珠蛋",
+            "Chinese (Simplified)": "珍珠蛋",
+            "Korean": "진주 달걀"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Leviathan",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Mountain egg",
+            "Spanish": "Huevo de montaña",
+            "German": "Berg-Ei",
+            "French": "Œuf de montagne",
+            "Italian": "Uovo di montagna",
+            "Dutch": "Berg ei",
+            "Portuguese": "Ovo de montanha",
+            "Russian": "Горное яйцо",
+            "Japanese": "マウンテンエッグ",
+            "Chinese": "山蛋",
+            "Chinese (Simplified)": "山鸡蛋",
+            "Korean": "산 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Mountain",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Mythic egg",
+            "Spanish": "Huevo mítico",
+            "German": "Mythisches Ei",
+            "French": "Œuf mythique",
+            "Italian": "Uovo mitico",
+            "Dutch": "Mythisch ei",
+            "Portuguese": "Ovo mítico",
+            "Russian": "Мифическое яйцо",
+            "Japanese": "神話の卵",
+            "Chinese": "神話蛋",
+            "Chinese (Simplified)": "神话蛋",
+            "Korean": "신화 계란"
+        },
+        "IncubationTime": 24,
+        "RarityPool": "Mythic",
+        "TypePool": "All",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Rare egg",
+            "Spanish": "Huevo raro",
+            "German": "Seltenes Ei",
+            "French": "Œuf rare",
+            "Italian": "Uovo raro",
+            "Dutch": "Zeldzaam ei",
+            "Portuguese": "Ovo raro",
+            "Russian": "Редкое яйцо",
+            "Japanese": "希少な卵",
+            "Chinese": "珍稀雞蛋",
+            "Chinese (Simplified)": "罕见的鸡蛋",
+            "Korean": "희귀 한 계란"
+        },
+        "IncubationTime": 4,
+        "RarityPool": "Rare",
+        "TypePool": "All",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Speckled egg",
+            "Spanish": "Huevo manchado",
+            "German": "Geflecktes Ei",
+            "French": "Œuf tacheté",
+            "Italian": "Uovo maculato",
+            "Dutch": "Gevlekt ei",
+            "Portuguese": "Ovo manchado",
+            "Russian": "Пятнистое яйцо",
+            "Japanese": "斑点卵",
+            "Chinese": "染色的雞蛋",
+            "Chinese (Simplified)": "染色的鸡蛋",
+            "Korean": "얼룩진 달걀"
+        },
+        "IncubationTime": 8,
+        "RarityPool": "All",
+        "TypePool": "Feathered",
+        "CustomPool": [
+            "Hastalak",
+            "Gurgunterox",
+            "Sharactile",
+            "Xiliyute",
+            "Flambleuse",
+            "Foroctuloy",
+            "Melimero",
+            "Mozalysta",
+            "Ohamuyrex",
+            "Volcanovva",
+            "Y-M4K0",
+            "Cactuno"
+        ]
+    },
+    {
+        "Name": {
+            "English": "Uncommon egg",
+            "Spanish": "Huevo poco común",
+            "German": "Ungewöhnliches Ei",
+            "French": "Œuf peu commun",
+            "Italian": "Uovo non comune",
+            "Dutch": "Ongewoon ei",
+            "Portuguese": "Ovo invulgar",
+            "Russian": "Необычное яйцо",
+            "Japanese": "アンコモン・エッグ",
+            "Chinese": "罕見的雞蛋",
+            "Chinese (Simplified)": "不常见的鸡蛋",
+            "Korean": "흔하지 않은 계란"
+        },
+        "IncubationTime": 2,
+        "RarityPool": "Uncommon",
+        "TypePool": "All",
+        "CustomPool": []
+    },
+    {
+        "Name": {
+            "English": "Western egg",
+            "Spanish": "Huevo occidental",
+            "German": "Westliches Ei",
+            "French": "Œuf occidental",
+            "Italian": "Uovo occidentale",
+            "Dutch": "Westelijk ei",
+            "Portuguese": "Ovo ocidental",
+            "Russian": "Западное яйцо",
+            "Japanese": "ウエスタンエッグ",
+            "Chinese": "西蛋",
+            "Chinese (Simplified)": "西方鸡蛋",
+            "Korean": "서양 계란"
+        },
+        "IncubationTime": 12,
+        "RarityPool": "All",
+        "TypePool": "Western",
+        "CustomPool": []
+    }
+]

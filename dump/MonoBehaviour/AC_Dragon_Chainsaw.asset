@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Dragon_Chainsaw
+  m_EditorClassIdentifier:
+  name: Chainsaw
+  clipReferences:
+  - m_AssetGUID: 896470c3987acfd44a84d965890a0c76
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 7d598a221b3485d44b10f751ba7a00c8
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 3fba0996bce802c45a6c97d40fbe2c2f
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 3
+  BPM: 0

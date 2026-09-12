@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cd5e18f0dd3a7e8c3de8fbc09e1d6d7, type: 3}
+  m_Name: Chest_GoldChest
+  m_EditorClassIdentifier:
+  id: 2
+  name: Gold Chest
+  chance: 15
+  crowns: {x: 3, y: 5}
+  randomEggChance: 15
+  sprite: {fileID: 21300000, guid: af89b48c93489fd418a95506f956c0c1, type: 2}
+  explosionAudioClips:
+  - {fileID: 11400000, guid: 6e9b02b7cb631564faaf70f4c147186d, type: 2}
+  hasExtraRunes: 0
+  brokenChestParticles: {fileID: 11400000, guid: ed7b49de53e1fb34f859b5a8f7f871ea, type: 2}
+  brokenChestParticlesInSpace: {fileID: 11400000, guid: 5129a1c61b030c3448ca3830855d8520, type: 2}

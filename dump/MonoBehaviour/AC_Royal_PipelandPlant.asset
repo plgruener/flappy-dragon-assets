@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca33f2946883eda8f36f7bae5214cec, type: 3}
+  m_Name: AC_Royal_PipelandPlant
+  m_EditorClassIdentifier:
+  name: PipelandPlant
+  clipReferences:
+  - m_AssetGUID: c9ac2ff5a4a56434e8621ed2ca247314
+    m_SubObjectName:
+    m_SubObjectType:
+  - m_AssetGUID: 540b063d695088b4fa3238ad5ec6ba2d
+    m_SubObjectName:
+    m_SubObjectType:
+  type: 2
+  BPM: 0

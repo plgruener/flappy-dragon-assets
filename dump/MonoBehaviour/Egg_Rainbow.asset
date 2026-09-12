@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b9bd10b1f2d2bdda101f8ba56bbb41, type: 3}
+  m_Name: Egg_Rainbow
+  m_EditorClassIdentifier:
+  id: 31
+  name: Rainbow Egg
+  incubationTime: 8
+  shopIcon: {fileID: 21300000, guid: c1b0a3f4c45891f43a26b746b5ef2331, type: 2}
+  rarityPool: 6
+  typePool: 7
+  customDragonPool: []
+  nameKey: D_EGG.RAINBOW.NAME
+  descriptionKey: D_EGG.RAINBOW.DESCRIPTION
+  cameraBackgroundColor: {r: 0.65353477, g: 0.8156863, b: 0.5058824, a: 1}
+  outerBackgroundColor: {r: 0.5058824, g: 0.8156863, b: 0.5778758, a: 1}
+  particleColor: {r: 0.33149293, g: 0.8117647, b: 0.32549018, a: 1}
+  containsDragonHeart: 0
+  containsEvilMushroom: 0
+  containsFairyDust: 0
+  containsDragonEye: 0
+  containsDragonChilli: 0
+  containsThunderCloud: 0
+  containsSandsOfTime: 0
+  containsCosmicStars: 0
+  containsLuckyCharm: 1
+  containsCurvedSpoon: 0
+  containsMagicSnowflake: 0
+  containsSpookyGhost: 0
+  eggSubtype: 3
+  subtypeId: 8
+  material: {fileID: 2100000, guid: 3019215b66b90614083ab8f26ff59ecd, type: 2}
+  eggScale: {x: 1, y: 1, z: 1}
+  eggRotation: {x: 0, y: 0, z: 0}
