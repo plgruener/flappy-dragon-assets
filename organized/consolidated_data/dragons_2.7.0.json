@@ -3839,7 +3839,7 @@
                 "ru": "{[PRIMARY_VALUE]} получения волшебной снежинки с уменьшенной продолжительностью действия после пожирания аристократа.",
                 "ja": "貴族を食べた後、持続時間が短縮された魔法の雪片を得る確率が{[PRIMARY_VALUE]}になりました",
                 "zh": "{[PRIMARY_VALUE]}吞噬貴族後的持續時間減少的魔法雪花",
-                "zh-CN": "吞噬了一个贵族后，获得持续时间减少的魔法雪花的概率为{[PRIMARY_VALUE]} ",
+                "zh-CN": "吞噬了一个贵族后，获得持续时间减少的魔法雪花的概率为{[PRIMARY_VALUE]}",
                 "ko": "{[PRIMARY_VALUE]} 귀족을 먹은 후 기간 감소 된 기간으로 마법의 눈송이를 얻는 것"
             }
         }
@@ -4412,7 +4412,7 @@
             "ru": "Доисторический зверь, использующий свой мощный рев для оглушения и охоты на свою добычу.",
             "ja": "強力な咆哮で獲物を気絶させ、狩る先史時代の獣",
             "zh": "史前野獸，使用其強大的咆哮來擊暈和獵殺獵物",
-            "zh-CN": "\r史前野兽，使用其强大的咆哮来击晕和猎杀猎物",
+            "zh-CN": "史前野兽，使用其强大的咆哮来击晕和猎杀猎物",
             "ko": "강력한 포효로 먹이를 기절시키고 사냥하는 선사 시대의 야수"
         },
         "skill": {
@@ -5407,10 +5407,10 @@
                 "nl": "{[PRIMARY_VALUE]} van het vrijgeven van een gas dat aristocraten vergiftigt als ze flapperen.",
                 "pt": "{[PRIMARY_VALUE]} de libertar um gás que envenena os aristocratas quando batem as asas.",
                 "ru": "{[PRIMARY_VALUE]} выпускать газ, отравляющий аристократов, когда они хлопают в ладоши.",
-                "ja": "はためくと貴族を毒殺するガスを放出することの{[PRIMARY_VALUE]} ",
+                "ja": "はためくと貴族を毒殺するガスを放出することの{[PRIMARY_VALUE]}",
                 "zh": "{[PRIMARY_VALUE]} 拍打時釋放毒氣毒化貴族",
                 "zh-CN": "{[PRIMARY_VALUE]} 拍打时释放毒气毒化贵族",
-                "ko": "펄럭일 때 귀족을 독살시키는 가스 방출의 {[PRIMARY_VALUE]} "
+                "ko": "펄럭일 때 귀족을 독살시키는 가스 방출의 {[PRIMARY_VALUE]}"
             }
         }
     },
@@ -5567,7 +5567,7 @@
                 "ru": "{[PRIMARY_VALUE]} получения изогнутой ложки с уменьшенным сроком действия при пожирании аристократа.",
                 "ja": "貴族を食べたとき、持続時間が短縮された曲がったスプーンを得る確率が{[PRIMARY_VALUE]}になりました",
                 "zh": "{[PRIMARY_VALUE]}在吞噬貴族時持續減少彎曲勺子",
-                "zh-CN": "吞噬一个贵族时，获得弯曲的勺子并减少持续时间的概率为{[PRIMARY_VALUE]} ",
+                "zh-CN": "吞噬一个贵族时，获得弯曲的勺子并减少持续时间的概率为{[PRIMARY_VALUE]}",
                 "ko": "{[PRIMARY_VALUE]} 귀족을 먹을 때 기간이 줄어들 때 곡선 숟가락을 얻는 것"
             }
         }
@@ -6904,7 +6904,7 @@
                 "ru": "{[PRIMARY_VALUE]} получения двойной короны под действием активного бонуса.",
                 "ja": "アクティブなパワーアップの効果を受けている間、ダブルクラウンを得る確率が{[PRIMARY_VALUE]}になりました",
                 "zh": "{[PRIMARY_VALUE]}在有效電力的影響下獲得雙冠",
-                "zh-CN": "在主动电源的作用下，获得双冠的几率为{[PRIMARY_VALUE]} ",
+                "zh-CN": "在主动电源的作用下，获得双冠的几率为{[PRIMARY_VALUE]}",
                 "ko": "{[PRIMARY_VALUE]} 활성 파워 업의 효과에있는 동안 이중 크라운을 얻는 중"
             }
         }
@@ -7455,10 +7455,10 @@
                 "nl": "{[PRIMARY_VALUE]} van het krijgen van zand van de tijd met verminderde duur wanneer het oppakken van iets.",
                 "pt": "{[PRIMARY_VALUE]} de obter areias de tempo com duração reduzida ao pegar em algo.",
                 "ru": "{[PRIMARY_VALUE]} случаев получения песков времени с уменьшенным сроком действия при поднятии чего-либо.",
-                "ja": "何かを拾った時、持続時間が短縮された時の砂を得ることができるようになる{[PRIMARY_VALUE]} ",
-                "zh": "撿東西時獲得時間減少的時間之沙 {[PRIMARY_VALUE]} ",
-                "zh-CN": "捡东西时获得时间减少的时间之沙 {[PRIMARY_VALUE]} ",
-                "ko": "무언가를 집어들 때 감소된 지속 시간으로 시간의 모래를 얻는 {[PRIMARY_VALUE]} "
+                "ja": "何かを拾った時、持続時間が短縮された時の砂を得ることができるようになる{[PRIMARY_VALUE]}",
+                "zh": "撿東西時獲得時間減少的時間之沙 {[PRIMARY_VALUE]}",
+                "zh-CN": "捡东西时获得时间减少的时间之沙 {[PRIMARY_VALUE]}",
+                "ko": "무언가를 집어들 때 감소된 지속 시간으로 시간의 모래를 얻는 {[PRIMARY_VALUE]}"
             }
         }
     },
@@ -9181,7 +9181,7 @@
                 "ru": "{[PRIMARY_VALUE]} получения драконьего чили с уменьшенной продолжительностью действия при пожирании аристократа.",
                 "ja": "貴族を食べたときに、持続時間が短縮されたドラゴンチリを得る確率が{[PRIMARY_VALUE]}になりました",
                 "zh": "{[PRIMARY_VALUE]}在吞噬貴族時，獲得龍辣椒的持續時間降低",
-                "zh-CN": "吞噬贵族时，获得持续时间减少的龙形辣椒的几率为{[PRIMARY_VALUE]} ",
+                "zh-CN": "吞噬贵族时，获得持续时间减少的龙形辣椒的几率为{[PRIMARY_VALUE]}",
                 "ko": "{[PRIMARY_VALUE]} 귀족을 먹을 때 기간이 줄어들면서 드래곤 칠리를 얻는 것"
             }
         }
@@ -9298,7 +9298,7 @@
                 "pt": "Voo imprudente",
                 "ru": "Безрассудный полет",
                 "ja": "無謀な飛行",
-                "zh": "\r魯莽飛行",
+                "zh": "魯莽飛行",
                 "zh-CN": "鲁莽飞行",
                 "ko": "무모한 비행"
             },
@@ -9338,8 +9338,8 @@
                 "pt": "{[PRIMARY_VALUE]} para obter um aumento de velocidade de 1 segundo ao pegar em algo.",
                 "ru": "{[PRIMARY_VALUE]} увеличения скорости на 1 секунду при поднятии чего-либо.",
                 "ja": "何かを拾った時、{[PRIMARY_VALUE]}の確率で1秒間スピードがアップする",
-                "zh": "\r撿東西時 {[PRIMARY_VALUE]} 的速度提升 1 秒",
-                "zh-CN": "\r捡东西时 {[PRIMARY_VALUE]} 的速度提升 1 秒",
+                "zh": "撿東西時 {[PRIMARY_VALUE]} 的速度提升 1 秒",
+                "zh-CN": "捡东西时 {[PRIMARY_VALUE]} 的速度提升 1 秒",
                 "ko": "물건 줍기 시 1초 동안 속도 {[PRIMARY_VALUE]} 증가"
             }
         }
@@ -9916,7 +9916,7 @@
                 "en": "Blossom",
                 "es": "Florecer",
                 "de": "Blüte",
-                "fr": "\rFleurir",
+                "fr": "Fleurir",
                 "it": "Fiore",
                 "nl": "Blossom",
                 "pt": "Florescer",
@@ -11374,7 +11374,7 @@
                 "ja": "はばたくと持続時間が短くなるドラゴンチリを{[PRIMARY_VALUE]}個入手できる",
                 "zh": "{[PRIMARY_VALUE]} 獲得一個減少持續時間的龍辣椒在拍打時",
                 "zh-CN": "{[PRIMARY_VALUE]} 獲得一個減少持續時間的龍辣椒在拍打時",
-                "ko": "펄럭일 때 지속 시간이 감소된 드래곤 칠리 획득 중 {[PRIMARY_VALUE]} "
+                "ko": "펄럭일 때 지속 시간이 감소된 드래곤 칠리 획득 중 {[PRIMARY_VALUE]}"
             }
         }
     },
@@ -11690,7 +11690,7 @@
                 "ja": "回転時にエナジーオーブ生成率{[PRIMARY_VALUE]}アップ",
                 "zh": "旋转时 {[PRIMARY_VALUE]}产生一个能量球",
                 "zh-CN": "旋转时 {[PRIMARY_VALUE]} 产生一个能量球",
-                "ko": "빙글빙글 돌 때 에너지 오브 생성의 {[PRIMARY_VALUE]} "
+                "ko": "빙글빙글 돌 때 에너지 오브 생성의 {[PRIMARY_VALUE]}"
             }
         }
     },
@@ -13488,10 +13488,10 @@
                 "nl": "{[PRIMARY_VALUE]} van het lanceren van een raket tijdens het flapperen.",
                 "pt": "{[PRIMARY_VALUE]} de lançamento de um míssil quando se lança um flapping.",
                 "ru": "{[PRIMARY_VALUE]} запуска ракеты при махании руками.",
-                "ja": "はばたくとミサイルが発射されるの {[PRIMARY_VALUE]} ",
-                "zh": "拍打時發射導彈的 {[PRIMARY_VALUE]} ",
-                "zh-CN": "拍打时发射导弹的 {[PRIMARY_VALUE]} ",
-                "ko": "펄럭일 때 미사일 발사의 {[PRIMARY_VALUE]} "
+                "ja": "はばたくとミサイルが発射されるの {[PRIMARY_VALUE]}",
+                "zh": "拍打時發射導彈的 {[PRIMARY_VALUE]}",
+                "zh-CN": "拍打时发射导弹的 {[PRIMARY_VALUE]}",
+                "ko": "펄럭일 때 미사일 발사의 {[PRIMARY_VALUE]}"
             }
         }
     },
