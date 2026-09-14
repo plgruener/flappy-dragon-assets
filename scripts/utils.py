@@ -2,7 +2,6 @@ import os
 from yamlreader import load_yaml
 
 GAME_STRINGS = {}
-FILE_NAMES = {"dragons": [], "skills": [], "eggs": [], "royals": [], "themes": [], "worlds": [], "augments": []}
 SKILLS = {}
 DRAGONS = {}
 EGGS = {}
@@ -120,6 +119,9 @@ class Dragon:
     def convert_breeding_eggs(self):
         self.data["breeding_eggs"] = [EGGS[guid].data["name"]["en"][:-4] for guid in self.data["breeding_eggs"]]
 
+    def __lt__(self, other):
+        return self.data["name"] < other.data["name"]
+
 
 class Egg:
     def __init__(self, filepath, *args, **kwargs):
@@ -152,6 +154,9 @@ class Egg:
         }
         if self.data["custom_pool"]:
             self.data["type_pool"] = Data.TYPES[-1]
+
+    def __lt__(self, other):
+        return self.data["name"]["en"] < other.data["name"]["en"]
 
 
 class Royal:
@@ -193,6 +198,9 @@ class World:
             "themes": [THEMES[i["guid"]].data for i in json_data["themes"]],
         }
 
+    def __lt__(self, other):
+        return self.data["name"]["en"] < other.data["name"]["en"]
+
 
 class Augment:
     def __init__(self, filepath, *args, **kwargs):
@@ -220,6 +228,9 @@ class Augment:
             "description": punctuate(GAME_STRINGS[json_data["localizedDescriptionKey"]]),
         }
 
+    def __lt__(self, other):
+        return self.data["name"]["en"] < other.data["name"]["en"]
+
 
 def load_data(base_dir):
     languages = []
@@ -233,6 +244,7 @@ def load_data(base_dir):
                 data = data.strip()
             GAME_STRINGS[item["Term"]][languages[index]] = data
 
+    FILE_NAMES = {"dragons": [], "skills": [], "eggs": [], "royals": [], "themes": [], "worlds": [], "augments": []}
     for filename in os.listdir(os.path.join(base_dir, "MonoBehaviour")):
         if filename.endswith(".asset"):
             if filename.startswith("Dragon_"):

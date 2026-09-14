@@ -15,5 +15,5 @@ if __name__ == "__main__":
     )
     for fd in file_data:
         with open(os.path.join(OUTPUT_DIR, f"{fd[0]}.json"), "w", encoding="utf-8", newline="\n") as json_file:
-            json.dump([d.data for d in fd[1].values()], json_file, indent=4, ensure_ascii=False)
+            json.dump([d.data for d in sorted(fd[1].values())], json_file, indent=4, ensure_ascii=False)
             json_file.write("\n")
