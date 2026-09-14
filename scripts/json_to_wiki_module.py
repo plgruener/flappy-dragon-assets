@@ -95,7 +95,7 @@ def generate_lua(json_data):
         ):
             out_data[name][key] = dragon[key]
 
-    lua = f"return {slpp.encode(out_data)}"
+    lua = f"return {slpp.encode(out_data)}\n"
     lua = lua.replace("\t{", "{")
     lua = lua.replace("\t{", "{")
     lua = lua.replace("\t", "    ")
@@ -105,7 +105,7 @@ def generate_lua(json_data):
 if __name__ == "__main__":
     OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
     INPUT_DIR = OUTPUT_DIR if len(sys.argv) < 2 else sys.argv[1]
-    with open(os.path.join(INPUT_DIR, f"dragons.json"), encoding="utf-8", newline="\n") as f:
+    with open(os.path.join(INPUT_DIR, "dragons.json"), encoding="utf-8", newline="\n") as f:
         json_data = json.load(f)
-    with open(os.path.join(INPUT_DIR, f"wiki_module.lua"), "w", encoding="utf-8", newline="\n") as out_file:
+    with open(os.path.join(OUTPUT_DIR, "wiki_module.lua"), "w", encoding="utf-8", newline="\n") as out_file:
         out_file.write(generate_lua(json_data))
